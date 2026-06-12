@@ -84,9 +84,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 * <b>Listagem de Links</b>:
   
-  * URL pública da aplicação Web na Vercel: `INSERIR_URL_PUBLICA_DA_VERCEL`
-  * Link do build APK no Expo: `INSERIR_LINK_DO_BUILD_APK_EXPO`
-  * Link direto para download do APK: `INSERIR_LINK_DIRETO_DO_APK`
+  * [URL pública da aplicação Web na Vercel](cardioiafase7.vercel.app)
   * [Link público do projeto Wokwi](https://wokwi.com/projects/466467819611894785)
   * [Vídeo demonstrativo no YouTube/Drive](https://youtu.be/D9-v1i8-Uv4)
 
