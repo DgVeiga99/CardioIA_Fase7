@@ -1,0 +1,357 @@
+Artigo Especial
+Prevalência das Doenças Cardíacas Ilustrada em 60 Anos dos 
+Arquivos Brasileiros de Cardiologia
+Prevalence of Heart Disease Demonstrated in 60 Years of the Arquivos Brasileiros de Cardiologia
+Paulo Roberto Barbosa Evora, Julio Cesar Nather, Alfredo José Rodrigues
+Departamento de Cirurgia e Anatomia da Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (USP), Ribeirão Preto, SP - Brasil
+Palavras-chave
+Doenças Cardiovasculares; Prevalência; Publicações 
+Periódicas como Assunto; Doença da Artéria Coronariana; 
+Cardiopatias Congênitas; Doenças das Valvas Cardíacas; 
+Cardiomiopatias; Infarto do Miocárdio.
+Arq Bras Cardiol. 2014; 102(1):3-9Correspondência: Paulo Roberto Barbosa Evora  •
+Rua Rui Barbosa, 367/15, Centro. CEP 14015-120, Ribeirão Preto, SP - Brasil
+E-mail: prbevora@cardiol.br , prbevora@fmrp.usp.br
+Artigo recebido em 02/09/13; revisado em 29/10/13; aceito em 30/10/13.
+DOI:  10.5935/abc.20140001Resumo
+Considerando a relevância histórica e acadêmica 
+dos Arquivos Brasileiros de Cardiologia, posto que sua 
+indexação no MEDLINE iniciou-se em 1950, assumiu-se 
+como hipótese que a análise das publicações de 60 anos 
+poderia refletir as tendências evolutivas das doenças 
+cardíacas no Brasil.
+Os dados do trabalho foram coletados com um programa 
+desenvolvido para a finalidade, tornando possível a 
+extração automática das informações do banco de dados 
+MEDLINE. As informações do trabalho foram coletadas 
+pesquisando-se “Arquivos Brasileiros de Cardiologia AND 
+parâmetro selecionado em inglês”. Foram arbitrados quatro 
+grupos observacionais: (1) principais grupos de doenças 
+do coração (doença arterial coronariana, valvulopatia 
+cardíaca, cardiopatias congênitas e cardiomiopatias); (2) 
+doenças relevantes na prática clínica (arritmias cardíacas, 
+Cor Pulmonale, infarto do miocárdio e insuficiência 
+cardíaca congestiva); (3) fatores de risco cardiovascular 
+(hipertensão arterial, diabete, dislipidemia e aterosclerose), 
+e; (4) grupo arbitrado em função da evolução crescente 
+das publicações sobre insuficiência cardíaca congestiva 
+constadas nos grupos anteriores (insuficiência cardíaca 
+congestiva, infarto do miocárdio, cardiopatia reumática e 
+cardiopatia chagásica).
+Foram descritas todas as publicações dentro dos grupos 
+estabelecidos, ressaltando-se o crescente aumento da 
+insuficiência cardíaca e do diabete como fatores de risco. Foi 
+possível um levantamento relativamente fácil, com auxílio 
+do programa de computação desenvolvido para a pesquisa 
+bibliográfica de seis décadas. Ressaltando-se as limitações 
+do estudo, sugere-se a existência de um elo epidemiológico 
+entre as doenças cardiológicas prevalentes no Brasil e as 
+publicações dos Arquivos Brasileiros de Cardiologia.Introdução
+Na apresentação do memorial dos Arquivos Brasileiros 
+de Cardiologia (ABC) consta que, nos primeiros anos de 
+sua existência, o grande desafio da Sociedade Brasileira 
+de Cardiologia (SBC) foi a organização de seus congressos, 
+de modo a torná-los regulares e produtivos, o que, para 
+aquele tempo, era uma tarefa complexa e abrangente, 
+principalmente devido às dificuldades de transporte e de 
+comunicação então vigentes. O segundo trabalho de maior 
+relevância foi a criação de um órgão de divulgação próprio, 
+uma vez que os já existentes na Europa e nos Estados 
+Unidos tinham grande penetração nos meios acadêmicos 
+brasileiros, mas não alcançavam a massa de médicos que 
+aqui praticava a Cardiologia, sobretudo representada por 
+clínicos gerais. A ideia de um órgão de divulgação foi logo 
+colocada em prática, criando-se uma revista que, na época, 
+representava uma autêntica ousadia, já que pertencia a 
+uma especialidade ainda emergente, pois, na maioria dos 
+centros médicos, a Cardiologia ainda fazia parte da clínica 
+médica. Tal iniciativa atesta que os fundadores da SBC 
+consideraram, desde o início, a necessidade de um veículo 
+que pudesse registrar e divulgar os eventos e trabalhos 
+científicos produzidos por seus membros, iniciativa esta 
+que foi sacramentada em sua ata de fundação, em 14 de 
+agosto de 19431.
+Com mais de 60 anos − exatamente 70 anos de 
+existência desde sua fundação, os ABC são a publicação 
+científica oficial da SBC e o principal veículo de divulgação 
+das pesquisas científicas brasileiras na área das ciências 
+cardiovasculares. Publicados em dois idiomas (português 
+e inglês) e indexados nas principais bases de dados 
+internacionais (ISI Web of Science, Cumulated Index 
+Medicus, MEDLINE, Embase, Scopus, SciELO e LILACS), 
+os ABC têm fator de impacto médio de 1,2 de acordo 
+com a Thompson Reuters. Esse fato significa um patamar 
+semelhante à maioria dos periódicos indexados no ISI Web 
+of Science na área de Cardiologia. Além disso, os ABC são 
+classificados atualmente como Qualis B2 pela Coordenação 
+de Aperfeiçoamento de Pessoal de Nível Superior (Capes), 
+situação que colabora para uma melhor pontuação dos 
+Programas de Pós-Graduação com linhas de pesquisa em 
+ciências cardiovasculares2.
+Assim, considerando a relevância histórica e acadêmica 
+dos ABC, com sua indexação no MEDLINE em 1950, e 
+certos da grande possibilidade da existência de vieses 
+importantes, assumiu-se como hipótese que a análise 
+das publicações de 60 anos poderia refletir as tendências 
+evolutivas das doenças cardíacas no Brasil. Essa hipótese 
+3
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9definiu o racional da presente investigação que, em outras 
+palavras, procurou estabelecer a existência de uma relação 
+temporal entre as doenças cardíacas prevalentes no Brasil 
+com as publicações dos ABC.
+Métodos
+Os dados do trabalho foram coletados com auxílio 
+de um programa inédito utilizando a linguagem LINUX, 
+desenvolvido por um dos autores (JCN), que se constituiu 
+em um método automático de informações do banco 
+de dados MEDLINE3. Para isso, bastou fornecer, como 
+filtros, uma lista de palavras e parâmetros de interesse.  
+Assim, as informações foram processadas e armazenadas em 
+um arquivo Microsoft-Excel com formatação pré-definida. 
+Ressalte-se que a criação desse programa permitiu coletar 
+grande quantidade de dados em curto período de tempo, 
+tornando-se uma ferramenta que, seguramente, terá utilidade 
+em novas investigações. O programa é feito na linguagem 
+python , usando algumas bibliotecas como windmill  (faz a 
+interface com o navegador, consegue manipular páginas 
+com scripts Java, CSV (MEDLINE) e MS-Excel. Ainda não 
+há uma interface gráfica, o que traz certa dificuldade, pois 
+o programa deve ser manipulado inteiramente no terminal 
+de comando. A programação da lista de palavras foi feita 
+em um arquivo de texto (.txt) respeitando a ordem de uma 
+palavra por linha. Os dados coletados foram especificados 
+manualmente, sendo esta a etapa mais complicada, pois se 
+devia ter conhecimento de programação. Ressalte-se que 
+o programa pode ser usado tanto em sistema operacional 
+Windows como em Linux.
+As informações do trabalho foram coletadas pesquisando 
+“Arquivos Brasileiros de Cardiologia AND parâmetro 
+selecionado em inglês”. Filtros foram aplicados aos 
+resultados apresentados, para, então, contabilizar o número 
+de publicações para cada doença. Com a finalidade de 
+calcular as porcentagens por decênio, uma pesquisa com 
+o termo “Arquivos Brasileiros de Cardiologia” foi feita para 
+contar o número total de artigos publicados pela revista 
+e indexados no MEDLINE a partir de 1950. Inseriram-se 
+uma lista de palavras a serem pesquisadas e os parâmetros 
+que deviam ser extraídos de cada resultado da pesquisa. 
+Esses parâmetros podiam ser nomes, datas, ou qualquer 
+outra palavra de interesse. O programa abre todas as 
+páginas automaticamente e colhe os dados de interesse.  
+As informações são coletadas e, então, processadas de 
+diversas maneiras. No caso, os resultados foram distribuídos 
+em decênios, sendo calculadas as porcentagens dos valores 
+em cada período em relação ao total, criando-se um arquivo 
+de MS-Excel com os valores finais.
+Foram arbitrados quatro grupos observacionais: (1) 
+principais grupos de doenças do coração (doença arterial 
+coronariana, valvopatia cardíaca, cardiopatias congênitas 
+e cardiomiopatias); (2) doenças prevalentes na prática 
+clínica (arritmias cardíacas, Cor Pulmonale, infarto do 
+miocárdio e insuficiência cardíaca congestiva); (3) fatores 
+de risco cardiovascular (hipertensão arterial, diabete, 
+dislipidemia e aterosclerose); e (4) grupo arbitrado em 
+função da evolução crescente das publicações sobre insuficiência cardíaca congestiva (insuficiência cardíaca 
+congestiva, infarto do miocárdio, cardiopatia reumática 
+e cardiopatia chagásica).
+Consideraram-se os trabalhos publicados com humanos 
+e os resultados foram apresentados como composições de 
+gráficos de barras verticais (valores absolutos) e gráficos 
+lineares (valores percentuais representando a linha do tempo).
+Resultados
+Os gráficos têm como abscissa os decênios e como 
+ordenada a quantidade de resultados do parâmetro 
+escolhido dividida pela quantidade total de resultados no 
+decênio. A Figura 1 representa a evolução dos grandes 
+grupos de doenças cardíacas; a Figura 2 representa as 
+publicações relacionadas a quatro parâmetros arbitrados 
+por sua importância na prática clínica. Todas as curvas, 
+exceto a da hipertensão arterial, começam do zero porque 
+as publicações começam a partir da década de 1960.  
+A Figura 3 representa fatores de risco cardiovasculares na 
+pesquisa geral e a Figura 4 mostra a curva de insuficiência 
+cardíaca e de possíveis causas.
+Discussão
+Os dados dos gráficos representados na Figura 1 mostram 
+que a porcentagem de publicações sobre doenças cardíacas 
+congênitas sofreu uma queda na década de 1960 e tiveram 
+um crescimento na década de 1970, permanecendo estável 
+desde então, com aproximadamente 2% de incidência.  
+Já a curva de valvopatias teve seu pico na década de 1950, 
+sofreu grande queda na década de 1960 e, desde então, 
+vem se mantendo em queda entre 10 e 14%. A curva de 
+coronariopatias teve grande aumento até a década de 
+1970, quando apresentou pequena queda, voltando a subir 
+na década de 1980 atingindo aproximadamente 19% dos 
+casos e, desde então, tem queda baixa. As cardiomiopatias 
+apresentaram grande ascensão quase linear até a década 
+de 1980, quando houve um platô com máximo de 
+aproximadamente 13%, seguido de queda até 2010-2013, 
+quando representou aproximadamente 8% dos casos.
+Assim, considerando-se os grupos assumidos de principais 
+doenças cardíacas, temos as seguintes observações:
+- as cardiopatias congênitas, durante as seis décadas, 
+mantiveram um patamar de incidência baixo e estável.  
+Essa tendência se manteve nos primeiros 3 anos da década 
+de 2010, coincidindo com a prática clínica;
+- houve predomínio das valvopatias nas primeiras 2 décadas 
+(1950-1970), quando os trabalhos sobre coronariopatias 
+alcançaram e ultrapassaram os relativos às doenças 
+valvares, coincidindo, provavelmente, com o advento  
+da cinecoronariografia;
+- é curioso notar que o comportamento das cardiomiopatias 
+cujas publicações cresceram passaram a apresentar 
+incidência semelhante à incidência das valvopatias já a 
+partir da dedada de 1980. Considerando-se o declínio da 
+Cardiopatia Chagásica como problema de saúde pública, 
+não seria possível especular que esse aumento estaria ligado 
+à doença coronariana e/ou à idade avançada?
+4
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9Figura 1 - Principais grupos de doenças do coração (doença arterial coronariana, valvopatia cardíaca, cardiopatias congênitas e cardiomiopatias).
+Os dados dos gráficos representados na Figura 2 mostram 
+que a curva de infarto do miocárdio apresentou ascensão na 
+década de 1960, mantendo-se praticamente estável nos anos 
+1970. Houve novo aumento importante na década de 1980 
+e, na sequência, novo platô, seguido de queda no período de 
+2010-2013. A curva de arritmia apresentou grande aumento na 
+década de 1960, chegando a quase 16% dos artigos, seguido 
+de queda quase linear até aproximadamente 6%. Insuficiência 
+cardíaca congestiva somente aumentou no período estudado, 
+sendo tal aumento ainda mais importante na década de 
+1980 e chegando a aproximadamente 16% no período de 
+2010-2013. Cor Pulmonale manteve-se abaixo de 2% até a década de 1990, quando teve pequena ascensão, voltando a 
+aproximadamente 2% em 2010-2013. Quando se considerou 
+o grupo de publicações arbitradas por sua importância na 
+prática clínica (arritmias, infarto do miocárdio, insuficiência 
+cardíaca congestiva e Cor Pulmonale) e excluindo-se o Cor 
+Pulmonale, cujas publicações mantiveram- se em baixo e 
+num patamar estável, os outros três parâmetros apresentaram 
+padrões passíveis de interessante discussão:
+- a incidência de artigos sobre arritmias cardíacas foi mais 
+prevalentes até a década de 1990, quando foi igualada pelas 
+publicações sobre infarto do miocárdio e insuficiência cardíaca 
+congestiva, e entrou em franco declínio;
+5
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9Figura 2 -  Doenças prevalentes na prática clínica (arritmias cardíacas, Cor Pulmonale, infarto do miocárdio e insuficiência cardíaca congestiva).
+- na década de 1990, houve perfeito equilíbrio entre o 
+número de publicações;
+- a partir da década de 2000, observou-se um dado 
+extremamente interessante, ou seja, o declínio das 
+publicações sobre infarto do miocárdio e o contínuo aumento 
+das publicações sobre insuficiência cardíaca congestiva. 
+Esse padrão coincidiu com o padrão das cardiomiopatias, 
+permitindo repetir o comentário sobre a influência da idade 
+e da evolução da doença arterial coronariana;Outra consideração entre os padrões de incidência 
+das publicações sobre arritmias e Cor Pulmonale seria o 
+surgimento de outras revistas especializadas nos assuntos.
+Os dados dos gráficos representados na Figura 3 mostram 
+que a curva de hipertensão arterial teve grande aumento no 
+período estudado, saindo de 4% das publicações chegando 
+a mais de 18% em 2010-2013. Diabetes teve aumento baixo 
+até a década de 1990, quando teve aumento significativo, 
+chegando a quase 10%. Dislipidemia apresentou incidência 
+6
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9Figura 3 -  Fatores de risco cardiovascular (hipertensão arterial, diabetes, dislipidemia e aterosclerose).
+baixa de artigos, menos de 2% até a década de 1980, 
+quando teve aumento aproximado de 4%. Aterosclerose 
+permaneceu baixa até a década de 1990, quando apresentou 
+ascensão quase linear, chegando a aproximadamente 4% 
+das publicações. Assim, no grupo dos fatores de risco foram 
+observados: nítida prevalência das publicações envolvendo 
+a hipertensão arterial; tendência, já notada, de aumento de 
+publicações sobre diabete; e, observando-se os primeiros 
+3 anos da década de 2010, confirmam-se a tendência de 
+aumento das publicações sobre diabete e uma discreta 
+diminuição de trabalhos sobre infarto do miocárdio.Finalmente, os dados representados na Figura 4 demonstram 
+que a cardiopatia chagásica permaneceu com um platô até 
+a década de 1990, quando apresentou queda quase linear, 
+chegando em 2010-2013 com aproximadamente 4% dos 
+resultados. Doença cardíaca reumática apresentou queda 
+a partir da década de 1960, permanecendo abaixo de 2%.  
+O infarto do miocárdio apresentou ascensão em quase todo o 
+período estudado, com platôs nas décadas de 1970 e 1990, e 
+apresentou queda no início da década de 2010. A insuficiência 
+cardíaca congestiva teve grande e contínuo crescimento 
+na porcentagem de artigos, indo de aproximadamente 5% 
+7
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9Figura 4 -  Grupo arbitrado em função da evolução crescente das publicações sobre insuficiência cardíaca congestiva (insuficiência cardíaca congestiva, infarto do 
+miocárdio, cardiopatia reumática e cardiopatia chagásica).
+até quase 20% na década de 1980. Assim, em função do 
+crescente aumento das publicações sobre insuficiência cardíaca 
+congestiva, arbitrou-se um quarto grupo observacional, o qual 
+confirmou a tendência de aumento, comparando-se com o 
+número de publicações sobre cardiopatia chagásica, cardiopatia 
+reumática e infarto do miocárdio. Como se observam uma mais 
+baixa frequência de cardiopatia reumática e uma tendência 
+à diminuição das publicações sobre cardiopatia chagásica, 
+mantêm-se as especulações sobre a importância da idade 
+avançada e da cardiopatia dilatada em consequência da doença 
+arterial coronariana.Limitações
+Algumas observações são pertinentes por se tratar de um 
+manuscrito que foge às regras convencionais de um artigo 
+científico. Existem, evidentemente, limitações do método: 
+1) uma delas é a contagem de determinados artigos mais 
+de uma vez, visto que podem aparecer nos resultados 
+de mais de um parâmetro selecionado. Por exemplo, o 
+mesmo artigo pode aparecer nos resultados de “infarto do 
+miocárdio” e “arritmia”. Apesar disso, os gráficos mostram 
+claramente as tendências de aumento e de diminuição 
+da porcentagem de artigos publicados relacionados aos 
+8
+Artigo EspecialEvora e cols.
+60 anos de publicações dos ABC
+Arq Bras Cardiol. 2014; 102(1):3-9indicadores selecionados; (2) na sua existência, os ABC 
+tiveram periodicidade modificada no decorrer do tempo 
+e, certamente, essa periodicidade aumentada deve ter 
+alguma relação com o número de artigos publicados4,5; 
+(3) além disso, a partir dos anos 1960 houve explosão de 
+novas escolas médicas no Brasil, maior número de médicos 
+cardiologistas, e o crescimento das instituições que mais 
+contribuem para os ABC no país; e (4) as categorizações 
+foram arbitrárias e, portanto, é obrigatório admiti-las, em 
+geral, como simplificadoras da realidade. No caso deste 
+manuscrito, empregaram-se a categorização de interesse em 
+uma época, em um único veículo de comunicação científica 
+e, evidentemente, o interesse metodológico dos autores. 
+Esse tipo de categorização, quando aplicada no decorrer de 
+décadas, pode incidir em classificação artificial.
+Em conclusão, foi possível realizar uma pesquisa 
+bibliográfica de seis décadas de maneira relativamente fácil, 
+com auxílio de um programa de computação desenvolvido 
+para essa finalidade. Ressaltando-se as limitações do 
+estudo, sugere-se a existência de uma relação temporal entre as doenças cardiológicas prevalentes no Brasil e as 
+publicações dos ABC.
+Contribuição dos autores
+Concepção e desenho da pesquisa e Redação do manuscrito: 
+Evora PRB; Obtenção de dados: Nather JC; Análise e 
+interpretação dos dados e Revisão crítica do manuscrito quanto 
+ao conteúdo intelectual: Evora PRB, Nather JC, Rodrigues AJ.
+Potencial Conflito de Interesses
+Declaro não haver conflito de interesses pertinentes
+Fontes de Financiamento
+O presente estudo não teve fontes de financiamento externas
+Vinculação Acadêmica
+Não há vinculação desse estudo a programas de pós-graduação.
+1. PubMed / Medline. [Acessado em 2013 Nov 10]. Disponível em: http://
+www.ncbi.nlm.nih.gov/pubmed/
+2. Moreira LF . Bem-vindo à página dos Arquivos Brasileiros de Cardiologia. 
+[Citado em 2013 nov 10]. Disponível em: http://www.arquivosonline.com.
+br/2013/
+3. Memorial dos Arquivos Brasileiros de Cardiologia: história da revista. [Citado 
+em 2013 nov 10]. Disponível em: http://www.arquivosonline.com.br/
+memorial/historia.asp4. Amorim DS. Publications of the Arquivos Brasileiros de Cardiologia in the 
+period 1968-1977. Arq Bras Cardiol. 1980;34(1):1-7.
+5. Mansur AJ, Abud AS, Albuquerque CP . Publication trends in quarterly, 
+bimonthly and monthly cycles of publication during the five decades of 
+Brazilian Archives of Cardiology. Arq Bras Cardiol. 2000;75(1):1-7.Referências
+9

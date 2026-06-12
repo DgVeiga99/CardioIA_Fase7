@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "CardioIA",
+    "slug": "cardioia-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.fiap.cardioia"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cardioia-fase7"
+      }
+    }
+  }
+}

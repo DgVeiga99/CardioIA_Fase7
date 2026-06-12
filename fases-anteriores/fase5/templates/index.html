@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CardioIA</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        .chat-container {
+            width: 460px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.12);
+            overflow: hidden;
+        }
+
+        .header {
+            background: #8b0000;
+            color: #ffffff;
+            padding: 15px;
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header-text {
+            min-width: 0;
+        }
+
+        .title {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .subheader {
+            font-size: 13px;
+            margin-top: 4px;
+        }
+
+        .reset-btn {
+            background: #ffffff;
+            color: #8b0000;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 13px;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .reset-btn:hover {
+            background: #f0f0f0;
+        }
+
+        .chat-box {
+            height: 420px;
+            overflow-y: auto;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            background: #f7f7f7;
+        }
+
+        .message {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 16px;
+        }
+
+        .message.user {
+            align-items: flex-end;
+        }
+
+        .message.bot {
+            align-items: flex-start;
+        }
+
+        .name {
+            font-size: 12px;
+            margin-bottom: 4px;
+            color: #666666;
+        }
+
+        .bubble {
+            max-width: 60%;
+            padding: 10px 14px;
+            border-radius: 10px;
+            line-height: 1.5;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+        }
+
+        .message.user .bubble {
+            background: #e0e0e0;
+            color: #000000;
+        }
+
+        .message.bot .bubble {
+            background: #ffffff;
+            color: #8b0000;
+            border: 1px solid #dddddd;
+        }
+
+        .typing-bubble {
+            display: flex;
+            gap: 6px;
+            align-items: center;
+            width: fit-content;
+            min-width: 42px;
+        }
+
+        .dot {
+            width: 8px;
+            height: 8px;
+            background-color: #8b0000;
+            border-radius: 50%;
+            display: inline-block;
+            animation: blink 1.4s infinite ease-in-out;
+        }
+
+        .dot:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        .dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes blink {
+            0%, 80%, 100% {
+                opacity: 0.3;
+                transform: scale(0.8);
+            }
+            40% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .input-area {
+            display: flex;
+            border-top: 1px solid #dddddd;
+            background: #ffffff;
+        }
+
+        .input-area input {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            outline: none;
+            font-size: 14px;
+        }
+
+        .input-area button {
+            background: #8b0000;
+            color: #ffffff;
+            border: none;
+            padding: 12px 15px;
+            cursor: pointer;
+        }
+
+        .input-area button:hover {
+            background: #a00000;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="chat-container">
+    <div class="header">
+        <div class="header-content">
+            <div class="header-text">
+                <div class="title">CardioIA</div>
+                <div class="subheader">Assistente virtual especializada em cardiologia</div>
+            </div>
+
+            <button class="reset-btn" onclick="resetSession()">Reiniciar conversa</button>
+        </div>
+    </div>
+
+    <div class="chat-box" id="chatBox"></div>
+
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Digite sua mensagem...">
+        <button onclick="sendMessage()">Enviar</button>
+    </div>
+</div>
+
+<script>
+    function addUserMessage(message) {
+        const chatBox = document.getElementById("chatBox");
+
+        chatBox.innerHTML += `
+            <div class="message user">
+                <div class="name">Você</div>
+                <div class="bubble">${message}</div>
+            </div>
+        `;
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function addBotMessage(message) {
+        const chatBox = document.getElementById("chatBox");
+
+        chatBox.innerHTML += `
+            <div class="message bot">
+                <div class="name">CardioIA</div>
+                <div class="bubble">${message}</div>
+            </div>
+        `;
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function addTypingMessage() {
+        const chatBox = document.getElementById("chatBox");
+        const typingId = "typing-" + Date.now();
+
+        chatBox.innerHTML += `
+            <div class="message bot" id="${typingId}">
+                <div class="name">CardioIA</div>
+                <div class="bubble typing-bubble">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+            </div>
+        `;
+
+        chatBox.scrollTop = chatBox.scrollHeight;
+        return typingId;
+    }
+
+    function removeTypingMessage(typingId) {
+        const typingElement = document.getElementById(typingId);
+        if (typingElement) {
+            typingElement.remove();
+        }
+    }
+
+    function delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    function randomTypingDelay(min = 700, max = 1400) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    async function loadWelcomeMessage() {
+        const typingId = addTypingMessage();
+
+        try {
+            const response = await fetch("/welcome");
+            const data = await response.json();
+
+            await delay(randomTypingDelay(800, 1200));
+            removeTypingMessage(typingId);
+            addBotMessage(data.reply);
+
+        } catch (error) {
+            removeTypingMessage(typingId);
+            addBotMessage("Não foi possível carregar a mensagem inicial.");
+        }
+    }
+
+    async function sendMessage() {
+        const input = document.getElementById("userInput");
+        const message = input.value.trim();
+
+        if (!message) return;
+
+        addUserMessage(message);
+        input.value = "";
+
+        const typingId = addTypingMessage();
+
+        try {
+            const response = await fetch("/chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ message: message })
+            });
+
+            const data = await response.json();
+
+            await delay(randomTypingDelay(700, 1500));
+            removeTypingMessage(typingId);
+            addBotMessage(data.reply);
+
+        } catch (error) {
+            removeTypingMessage(typingId);
+            addBotMessage("Erro ao conectar com o servidor.");
+        }
+    }
+
+    async function resetSession() {
+        const chatBox = document.getElementById("chatBox");
+
+        try {
+            const response = await fetch("/reset-session", {
+                method: "POST"
+            });
+
+            const data = await response.json();
+
+            chatBox.innerHTML = "";
+
+            const typingId = addTypingMessage();
+            await delay(randomTypingDelay(700, 1100));
+            removeTypingMessage(typingId);
+
+            addBotMessage(data.welcome);
+
+        } catch (error) {
+            addBotMessage("Não foi possível reiniciar a sessão.");
+        }
+    }
+
+    document.getElementById("userInput").addEventListener("keypress", function(event) {
+        if (event.key === "Enter") {
+            sendMessage();
+        }
+    });
+
+    window.onload = loadWelcomeMessage;
+</script>
+
+</body>
+</html>

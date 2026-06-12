@@ -1,0 +1,64 @@
+Me passaram um exame cardíaco,exames_consulta
+O cardiologista passou um exame para fazer,exames_consulta
+O doutor solicitou um exame pra mim,exames_consulta
+Preciso fazer um exame do coração urgente,exames_consulta
+Preciso fazer um exame que o cardiologista passou,exames_consulta
+Tenho que fazer um exame do coração,exames_consulta
+Vou fazer um exame cardíaco essa semana,exames_consulta
+Vou fazer um exame para o coração,exames_consulta
+Vou fazer um exame que pediram na consulta,exames_consulta
+Vou realizar um exame cardíaco,exames_consulta
+Posso comer antes do exame do coração?,preparo
+Preciso fazer algum preparo antes do exame?,preparo
+Como devo me preparar para o exame?,preparo
+Posso fazer atividade física antes do exame?,preparo
+Tem alguma restrição antes do exame?,preparo
+Posso tomar café antes do exame?,preparo
+Tem alguma recomendação antes de fazer o exame?,preparo
+O que eu preciso levar no dia do exame?,preparo
+Preciso parar algum remédio antes do exame?,preparo
+Tem que fazer jejum para esse exame?,preparo
+Sim,respostas_afirmativas
+"Sim, pode ser",respostas_afirmativas
+Quero sim,respostas_afirmativas
+Pode continuar,respostas_afirmativas
+Pode prosseguir,respostas_afirmativas
+OK,respostas_afirmativas
+Não,respostas_negativas
+"Não, obrigado",respostas_negativas
+Agora não,respostas_negativas
+Não precisa,respostas_negativas
+Não é necessário,respostas_negativas
+Prefiro não,respostas_negativas
+Estou tonto e parece que vou desmaiar,sintomas_graves
+Estou com falta de ar intensa e não consigo respirar direito,sintomas_graves
+Meu peito está apertando muito e a dor não passa,sintomas_graves
+Estou suando frio e com dor no peito,sintomas_graves
+A dor no peito está indo para o braço esquerdo,sintomas_graves
+Sinto uma pressão muito forte no peito e estou preocupado,sintomas_graves
+Estou com dor no peito e me sentindo muito fraco,sintomas_graves
+Acabei de quase desmaiar do nada,sintomas_graves
+Estou com uma dor muito forte no peito agora,sintomas_graves
+Minha respiração está muito difícil agora,sintomas_graves
+Estou com dor forte no peito e enjoo,sintomas_graves
+Meu coração está disparado e estou passando mal,sintomas_graves
+Estou com dor no peito e sensação de morte iminente,sintomas_graves
+Estou com falta de ar e dor no peito ao mesmo tempo,sintomas_graves
+Senti uma dor súbita muito forte no peito agora,sintomas_graves
+"Tenho uma sensação estranha no peito, difícil de explicar",sintomas_leves
+estou me cansando quando subo a escada,sintomas_leves
+to cansado,sintomas_leves
+Tenho sentido umas palpitações de vez em quando,sintomas_leves
+"Sinto um leve desconforto no peito, mas não é dor forte",sintomas_leves
+Fico um pouco tonto quando levanto rápido,sintomas_leves
+Estou cansando mais fácil ao subir escadas,sintomas_leves
+Às vezes sinto o coração meio acelerado sem motivo,sintomas_leves
+Tenho sentido uma leve falta de ar quando faço esforço,sintomas_leves
+"Meu peito fica meio estranho, mas não chega a doer muito",sintomas_leves
+Sinto um aperto leve no peito em alguns momentos,sintomas_leves
+Tenho percebido meu coração batendo irregularmente às vezes,sintomas_leves
+Ando me sentindo mais fraco do que o normal,sintomas_leves
+Fico meio ofegante com atividades simples,sintomas_leves
+Às vezes sinto uma pressão leve no peito,sintomas_leves
+Estou sentindo um cansaço fora do normal ultimamente,sintomas_leves
+Meu coração às vezes parece bater mais rápido do que o normal,sintomas_leves

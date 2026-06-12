@@ -1,0 +1,17 @@
+Projeto Wokwi - CardioIA Fase 7 IoT MicroPython
+
+Link público:
+https://wokwi.com/projects/466467819611894785
+
+Descrição:
+Simulação da camada IoT da CardioIA utilizando ESP32 com MicroPython, sensor DHT22, potenciômetro, chave online/offline e display OLED SSD1306 via I2C.
+
+Mapeamento dos pinos:
+- DHT22 DATA: GPIO 23
+- Potenciômetro SIG: GPIO 34
+- Chave online/offline: GPIO 19
+- OLED SDA: GPIO 21
+- OLED SCL: GPIO 22
+
+Observação:
+A temperatura do DHT22 simula a temperatura corporal do paciente, a umidade do DHT22 simula a oxigenação e o potenciômetro simula os batimentos cardíacos.

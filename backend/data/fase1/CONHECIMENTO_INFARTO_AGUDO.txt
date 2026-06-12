@@ -1,0 +1,454 @@
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 1 de 10 
+ 
+ 
+ 
+ 
+Conhecimento  dos pacientes  sobre  Infarto  Agudo  do Miocárdio  e seus 
+impactos no tempo de espera  
+ 
+Patients'  knowledge  of Acute  Myocardial  Infarction  and its impact  on delay  time  
+ 
+Conocimiento  de los pacientes  sobre  el Infarto  Agudo  de Miocardio  y sus impactos  en el 
+tiempo de espera  
+ 
+Samuel  Oliveira  Dumont  Horta1, Milena  Melo  Gambogi1, Roberta  Cíntia  Sousa  Coelho1, Lucas 
+Moreira Burlamaqui de Mello¹, Carlos Villegas Rifarachi2, Fernanda Silva Torres¹.
+ 
+RESUMO  
+Objetivo: Avaliar  o conhecimento  de 55 pacientes,  de ambos  os sexos,  em um centro de saúde de uma cidade 
+de Minas Gerais , Brasil, sobre o  infarto  agudo  do miocárdio  (IAM ). Métodos:  Foi aplicado  um questionário  
+estruturado  contendo  20 questões,  focando em fatores socioeconômicos e conhecimentos sobre IAM. Os 
+dados foram analisados por meio de frequências absolutas e relativas. Resultados: A maioria dos pacientes 
+eram mulheres acima de 60  anos, com escolaridade e renda limitadas. As comorbidades comuns incluíam 
+diabetes, hipertensão e doenças cardíacas, que contribuem para um maior risco de doenças cardiovasculares. 
+Em média, os pacientes reconheceram corretamente, 30,4%, dos 17 sintomas de  IAM. Aproximadamente 
+78% dos entrevistados relataram que p rocurariam uma Unidade de Pronto Atendimento ou Hospital se 
+deparassem  com sintomas de IAM. Estilo de vida, como hábitos alimentares e atividade física, foram 
+associados a principais fatores  que previnem o IAM. Conclusão: Os resultados sugerem que a população 
+possui algum conhecimento sobre o IAM. No entanto, eles não têm consciência de todos os sintomas e não 
+conseguem relacionar os fatores de risco com a ocorrência do IAM.  Assim, o material educativo foi eficaz, 
+focando no aprimoramento do conhecimento e do autocuidado.  
+Palavras -chave: Infarto Agudo do Miocárdio, Educação médica, Cardiopatias, Sinais e sintomas, Assistência 
+integral à saúde.
+ 
+ABSTRACT  
+Objective: To assess the level of awareness among 55 patients, regardless of gender, at the Health Center 
+in a city in Minas Gerais, Brazil regarding acute myocardial infarction (AMI).  Methods: A structured 
+questionnaire with 20 questions was administered, focusing on socioeconomic factors and AMI awareness. 
+Data were analyzed using absolute and relative frequencies. Results: Most of the patients were women over 
+60 years old, with limited education and income. Common comorbidities included diabetes, hypertension, and 
+heart disease, contributing to a higher risk of cardiovascular conditions. On average, p atients correctly 
+recognized 30.4% out of 17 AMI symptoms. Approximately 78% of respondents would seek  assistance  at an 
+Emergency  Care Unit or Hospital when confronted with AMI symptoms. Lifestyle factors such as dietary habits 
+and physical activity were associated with higher factors that prevent AMI. Conclusion: The findings suggest 
+that the population possesses some fundamental knowledge about AMI. However, they lack awareness of all 
+symptoms and fail to connect risk factors with AMI occurrence. Thus, th e educational material was effective, 
+focusing on improving knowledge and self -care.  
+Keywords: Myocardial Infarction, Education  medical, Heart diseases, Signs and symptoms, Comprehensive 
+health care. 
+ 
+1 Faculdade  de Minas  (Faminas -BH), Belo Horizonte - MG.   
+2 Centro  de Saúde  da Cidade de Minas Gerais , Belo Horizonte - MG.   
+ 
+SUBMETIDO  EM: 11/2023  | ACEITO  EM: 7/2024 | PUBLICADO  EM: 10/2024 
+
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 2 de 10 
+RESUMEN  
+Objetivo: Avaluar  lo conocimiento  de 55 pacientes,  de ambos  géneros, del Centro de Salud de  una ciudad de 
+Minas Gerais,  Brasil, acerca de infarto agudo de  mioc ardio (IAM). Método s: Fue aplicado un  cuestion ario 
+estructurado  con 20 cuestiones, centrado en factores socioeconómicos y conocimiento sobre el IAM. Se 
+analizaron los datos mediante frecuencia absolutas y relativas. Resultados: La mayoría de los pacientes eran 
+mujeres mayores de 60 años, con educación e ingresos limitados. Las comorbi lidades comunes incluyen 
+diabetes, hipertensión y cardiopatías. En promedio, los pacientes reconocieron correctamente 30,4% de los 
+17 síntomas del IAM. Aproximadamente  el 78% de los entrevistados  declararon  que procurarían  a una unidad  
+de respuesta  rápida o a un hospital en caso de presentar síntomas del IAM. Estilo de vida, como los hábitos 
+alimentarios y la actividad física, se asociaron a los principales factores de prevención del  IAM. Conclusión:  
+Los resultados sugieren que la población  tiene  cierto  conocimiento  del IAM. Sin embargo,  desconocen  todos  
+los síntomas  y no relacionan los factores de riesgo con la aparición de  un IAM. Entonces , el material  educativo  
+fue eficaz  y se centró en mejorar los conocimientos y el autocuidado.  
+Palabras clave: Infarto Agudo de Mioc ardio, Educación médica, Cardiopatías, Señales y síntomas, 
+Assist encia integral a la salud.
+ 
+ 
+INTRODUÇÃO  
+As doenças cardiovasculares (DCV) foram responsáveis por 31% das mortes globais em 2016, 
+constituindo a maior causa  de morbimortalidade.  Nas Américas,  as DCVs  são as principais  causas  de morte 
+e no Brasil ocupam a 16° posição, com  mais  de 156 mortes/100.000  habit.  em 2019.  Além  disso,  de acordo 
+com dados do DATASUS, essas doenças são responsáveis por mais de 500 milhões de reais/ano em gastos 
+na rede pública em procedimentos como angioplastia e cateterismo (PAHO, 2021; WHO, 2019).  Esse cenário 
+se deve ao aumento da expectativa de vida da população,  associada  ao estresse  crônico, hipertensão arterial  
+sistêmica (HAS) e as doe nças coronarianas (DACs). Além de comorbidades como diabetes mellitus (DM), 
+histórico de tabagismo,  consumo excessivo de álcool, inatividade física,  alimentação inadequada e excesso 
+de peso. Complementarmente, a classe social e condições de vida também influenciam na elevação do risco 
+cardiovascular  (RCV)  por se associarem,  na maioria  das vezes,  a comportamentos alimentares inadequados 
+(BRASIL, 2022; ALVES L e POLANCZYK CA, 2020).  
+Nas entidades patológicas que compõem o grupo das DCV, destaca -se a síndrome coronariana aguda 
+(SCA), especificamente as DACs. Essas consistem em alterações coronarianas, como a deposição de placas 
+ateromatosas, com redução ou obstrução total do  fluxo  sanguíneo  que diminui  a irrigação  da parede do 
+coração. O infarto agudo do miocárdio (IAM), é um subtipo de SCA, e ocorre após uma obstrução permanente 
+de no mínimo  70% das coronárias,  causando  isquemia  e necrose  do tecido  cardíaco.  Isso pode causar 
+disfunção cardíaca e ser potencialmente fatal  (KANG YP, et al., 2019; BETT MS, et al., 2022).  O IAM é uma 
+doença  importante  para a saúde  pública,  pela sua letalidade  e morbidade,  alta incidência  e prevalência de 
+fatores de risco nos brasileiros.  Assim  e frente  a relevância  médica  do IAM, é importante  um rápido e eficiente 
+diagnóstico, com controle da expansão da área infartada, e um prognóstico favorável ao paciente, que 
+depende principalmente das condutas iniciais assumidas na admissão do paciente.  
+Para  tanto, o diagnóstico é feito, principalmente, pelo quadro clínico, alterações eletrocardiográficas e 
+elevação dos marcadores bioquímicos para necrose miocárdica. Além disso, a realização de condutas 
+imediatas como administração de trombolíticos  ou, a angioplastia,  favorecem  a reperfusão  da região  (BETT  
+MS, et al., 2022; ALEGRIA S, et al., 2021).  Destaca -se então, a necessidade de atendimento rápido após 
+suspeita de SCA. Entretanto, isso  depende de fatores que vão além  do preparo  da equipe  de saúde,  mas do 
+entendimento  do paciente,  ou do seu acompanhante, da gravidade e da necessidade de atendimento 
+imediato. Um estudo transversal realizado no Rio Grande do Sul, constatou que a busca por atendimento em 
+indivíduos com sintomas de IAM, que já haviam tido um quadro semelhante, seria mais r ápida. Entreta nto, 
+aqueles que nunca haviam tido  evento  parecido  ou mesmo  presenciado  algum,  havia  uma demora  na procura  
+por atendimento  (SOUSA AR, et al., 2021).  Dessa forma, é notório que caso o paciente, ou seu acompanhante 
+possua conhecimento sobre as principais manifestações do IAM, isso pode mudar o curso da doença, pela  
+busca  urgente  de atendimento. Assim, os objetivos deste trabalho foram traçar o perfil socioeconômico e de 
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 3 de 10 
+saúde de uma população atendida em um Centro  de Saúde  de uma cidade de Minas Gerais , e avaliar  o 
+conhecimento  dessa  população sobre sinais e sintomas de IAM. Complementarmente, disponibilizou -se um 
+material educativo (HORTA SOD, et al., 2022), sobre IAM, seus fatores desencadeantes e as condutas frente 
+à suspeita de IAM.  
+ 
+MÉTODOS  
+Trata -se de um estudo longitudinal prospectivo do conhecimento prévio sobre IAM de pacientes atendidos 
+em um Centro de Saúde de uma cidade de Minas Gerais . O trabalho  foi dividido  em quatro  etapas:  
+1) Seleção do público a partir dos critérios: Pacientes residentes na cidade de Vespasiano – MG, e 
+atendidos no centro de saúde na especialidade de Cardiologia. 2) Aplicação do questionário sobre 
+características socioeconômicas, de saúde e dos conhecimento s sobre o IAM. 3) Elaboração do material 
+educativo. 4) Entrega d e um  e-book.  
+O questionário estruturado continha 20 questões, organizado em duas etapas: 1)  Perfil  socioeconômico (5 
+questões) e, 2) Perfil de saúde (15 questões), sendo essa dividida em duas partes - hábitos de vida e doenças 
+pré-existentes; e conhecimentos sobre o IAM. O questionário foi disponibilizado no  Google  Forms com 
+equipamento necessário e  um ambiente  seguro.  Os participantes  foram  esclarecidos  sobre  a pesquisa, e 
+assinaram o Termo de Consentimento Livre e Esclarecido. A  pesquisa  foi aprovada  pelo Comitê  de Ética, 
+CAAE n° 56017422.5.0000.5105 , com Parecer de n° 5.329.285. As análises das respostas foram feitas pela 
+determinação da fabs (frequência absoluta); f% (frequência relativa percentual ou proporção).  
+ 
+RESULTADOS  E DISCUSSÃO  
+Durante este trabalho participaram 55 pacientes, do setor de cardiologia do Centro de Saúde. Os pacientes  
+foram  abordados  no momento  pré-consulta.  Na primeira  etapa  do questionário  foi possível obter -se uma 
+caracterização socioeconômica dos pacientes, como apresentado na (Tabela 1 ). 
+ 
+Tabela 1 - Caracterização socioeconômica dos pacientes atendidos no Centro  de 
+Saúde, 2022 -2023, n=55.  
+Variável  N (fabs)  % (f) 
+Gênero  
+Masculino  21 38,2 
+Feminino  33 60 
+Trans  0 0 
+Travesti  0 0 
+Não respondeu  1 1,8 
+Idade  
+< 20 anos  0 0 
+20-40 0 0 
+41-60 14 25,5 
+> 61 anos  41 74,5 
+Escolaridade  
+Não alfabetizado1 14 25,5 
+Ensino  fundamental  incompleto2 19 34,5 
+Ensino  fundamental  completo3 8 14,5 
+Ensino  médio  incompleto4 6 11 
+Ensino  médio  completo  4 7,3 
+Ensino  superior  incompleto  2 3,6 
+Ensino  superior  completo  2 3,6 
+Pós-graduação  0 0 
+Etnia  
+Branca  21 38,2 
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 4 de 10 
+Parda  19 34,5 
+Preta  13 23,7 
+Indígena  0 0 
+Amarela  0 0 
+Não declarado  2 3,6 
+Renda  mensal  
+Não possuo  renda  18 32,7 
+< 1 SM5 (< R$1.212,00)  19 34,5 
+1 - 3 SM (R$1.212,00  - 3.636,00)  17 31 
+> 3 SM (> R$ 3.636,00)  1 1,8 
+Total  de pacientes  55 
+Nota: 1Frequentou menos de 1 ano ou não  frequentou;  2Frequentou  no máximo  até 
+o 8° ano; 3Frequentou os 9 anos do ensino fundamental; 4Frequentou no máximo  
+até o 2° ano; 5Salário mínimo. Legenda: fabs: frequência absoluta; f: Frequência 
+relativa.  
+Fonte: Horta SOD, et al., 2024.  
+ 
+A análise  dos dados  indica  uma prevalência do sexo feminino (60%), contradizendo o sugerido pela 
+OMS em relação ao perfil de maior RCV, de ocorrência  no sexo  masculino.  Isso pode  ser explicado  pois as 
+pessoas do sexo feminino buscam mais assistência médica, com acesso a informações sobre saúde e fatores 
+de risco. Além disso, fatores hormonais, como produção de estrógeno, são associados a uma redução  do 
+RCV  nessas  pacientes.  Porém,  é importante  considerar  que a faixa  etária  dos pacientes  foi 
+predominantemente acima de 61 anos ( 74,5%), e as alterações hormonais do climatério (diminuição do 
+estrógeno), podem justificar a maior ocorrência de DCV (PRECOMA DB, 2021;  WENDT A, et al., 2021; 
+MARTINS MVF,  et al., 2021; SOUSA ELA,  et al., 2020; LUZ TC, et al., 2020).  
+O resultado da maioria dos pacientes estarem acima de 61  anos,  somado  a mais  de 74% apresentarem 
+baixa escolaridade (não alfabetizados ou que frequentaram menos do que 9 anos), trouxe a reflexão da 
+importância do cuidado com a elaboração do material educativo. Além disso, trouxe um entendimento da 
+relevância do tema e da forma de  apresentação  do material,  relacionado  ainda  com as informações  sobre  o 
+nível de legibilidade alto.  Quanto à renda, aproximadamente 67% dos pacientes apresentaram renda mensal 
+menor ou igual a 1 S M, isso pode se interrelacionar com a baixa escolaridade, tendo influência direta no 
+aumento da morbimortalidade por DCV. Isso se baseia na dificuldade  de acesso  aos serviços  de saúde,  
+acesso  limitado a medicamentos mais  eficazes,  exames,  adesão  ao tratamento  e condutas  pré-hospitalares  
+de emergências cardiovasculares. Além disso, estudos, demonstram que a população menos esclarecida 
+geralmente apresenta mais fatores de risco, como tabagismo e consumo de álcool (ANDRADE VM, et al., 
+2021;  WENDT A, et al., 2021; LUZ TC, et al., 2020).  
+Considerando a análise socioeconômica é evidente a necessidade de implementar ações educativas 
+voltadas para essa população. Estratégias de prevenção e conscientização devem considerar as 
+particularidades  da população  para a promoção  de acesso  igualitário  aos serviços  de saúde,  a educação  em 
+saúde e a redução das desigualdades sociais, aspectos cruciais para melhorar a saúde cardiovascular.  Na 
+segunda etapa do questionário, os resultados do número de visitas ao médico no último ano,  mostram que 
+pouco mais d a metade dos pacientes fez pelo menos 3 visitas  (28/51%),  e a maioria  realizou exames de rotina 
+(36/64%). Isso indica que os pacientes têm sido acompanhados com constância de atendimento e observação 
+dos fatores de risco. Visitas regulares ao médico aumentam a garantia de prevenção e o diagnóstico de 
+intercorrências cardiova sculares com sequelas permanentes, ou óbito precoce. Em relação à ingestão de 
+bebida alcoólica e tabagismo, 72,7%  (40) e 80% (44),  respectivamente, relatam não terem esses hábitos.  
+Assim,  e de acordo  com estudos  que associam  ingestão  de álcool  e DCV, com aumentos exponenciais do 
+risco cardiovascular e o tabagismo sendo associado a quase 50% dos óbitos por IAM, houve uma percepção 
+de que na população estudada  há uma tendência  a exclusão  destes fatores de risco (BIDDINGER KJ, et al., 
+2022; OLIVEIRA G, et al., 2019).  Outro parâmetro abordado foi a qualidade do sono, e os resultados 
+demonstraram que 41,8% (23) dos pacientes não têm problemas relacionados ao sono, e 58,2% (32) afirmam 
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 5 de 10 
+ter problemas como insônia, dificuldade para dormir ou dormir menos do que 8h. É importante destacar que 
+a má qualidade e os distúrbios do sono são considerados fatores de risco para DCVs. Isso porque o sono 
+influencia na prevenção e recuperação  de doenças  e sua privação  pode  causar  disfunção  endotelial,  distúrbio  
+no controle autonômico cardiovascular, e dificuldade no controle da pressão arterial  (SILVA CI, et al., 2023).  
+Quanto aos hábitos de vida, os resultados demonstraram que em relação à prática de atividade física 
+apenas 20% (11), praticam de forma regular, e 80% (44), não tem esse hábito. Já, quanto aos hábitos 
+alimentares, 83,6% (46) relataram que ingerem frutas,  verduras,  legumes  e proteínas  diariamente  ou quase 
+diariamente. Entretanto, relataram, ainda, em 45,4% (25) dos casos um consumo diário ou frequente de 
+frituras.  Esses  resultados  trazem  um alerta  da necessidade  de práticas  de atividades  formativas,  pela 
+equipe de saúde da família, sobre os hábitos de vida,  que irão auxiliar  na saúde  do sistema  cardiovascular, 
+prevenir ocorrências patológicas ou evoluções de ocorrências.  Em outra  parte  do questionário  os pacientes  
+responderam  sobre  as principais  condições  patológicas pré -existentes. Os resultados estão apresentados 
+na (Tabela 2 ). 
+ 
+Tabela  2 - Principais comorbidades apresentadas pelos pacientes atendidos no 
+Centro de Saúde, 2022 -2023, n=55.  
+Comorbidade  N (fabs)  % (f) 
+Obesidade  17 31 
+Diabetes  mellitus  tipo 2 (DMT2)  30 54,5 
+Hipertensão  arterial  sistêmica (HAS)  50 91 
+Dislipidemia  24 43,6 
+Doença  renal  8 14,5 
+Doença  cardíaca  21 38,2 
+Refluxo  gastroesofágico  (RGE)  7 12,7 
+Gastrite  8 14,5 
+Transtorno  de ansiedade  31 56,4 
+Depressão  14 25,4 
+Síndrome  do pânico  5 9,1 
+Total  de pacientes  55 
+Legenda:  fabs:  frequência  absoluta;  f: Frequência  relativa.   
+Fonte:  Horta SOD, et al., 2024.  
+ 
+Conforme observado, a HAS foi predominante, ocorrendo em 91% (50), sendo que a hipertensão constitui 
+um dos fatores de risco para o IAM e  o mecanismo  relaciona -se com uma aterogênese  acelerada, associada 
+à resistência insulínica, risco genético e hiperatividade simpática. Além disso, a HAS crônica causa  hipertrofia  
+cardíaca,  outro  fator de risco  para o IAM. Nesse  caso,  ocorre  um aumento  na demanda  por oxigênio para 
+manter a  viabilidade  das células  cardíacas  adaptadas,  alterações  hematológicas  secundárias, como estado 
+pró-trombótico, hiperviscosidade sanguínea e estresse  oxidativo  com vasculite,  favorecendo  a aterogênese e 
+o IAM  (NUNES PI, et al., 2022).  A segunda comorbidade  mais  prevalente  foi a DMT2,  representando  54,5%  
+(3) dos pacientes.  O DMT2  é definido pela resistência à insulina e/ou falência das células beta pancreáticas, 
+levando a hiperglicemia e hiperinsulinemia, contribuindo para p rocesso inflamatório, formação de placa 
+aterosclerótica.  
+Além disso, assim como a HAS, e a obesidade, ocorrente em 31% (17), dos pacientes, DMT2 associa -se 
+a alterações sanguíneas, como atividade plaquetária acentuada, risco de trombose, obstrução de coronárias 
+e do fluxo arterial cardíaco. Complementarmente, a obesidade central, pode prever  o risco  de IAM como  um 
+desfecho  cardiovascular. Os mecanismos para isso são o processo inflamatório, disfunção endotelial, 
+produção de ácidos  graxos  livres,  e alterações  na produção e função dos hormônios sintetizados pelos 
+adipócitos. Pode -se relacionar com as ocorrências citadas a dislipidemia, em 43,6% (24) pacientes, que 
+favorece à ocorrência de placas de ateromas, estreitamento  dos vasos  sanguíneos , trombose/embolia,  
+arteriosclerose; e IAM  (NUNES PI, et al., 2022; MARQUES MC, et al., 2022) . Outras  comorbidades  foram a 
+ansiedade (56,4%) e depressão (25,4%). Pesquisas recentes mostram que transtornos depressivos são 
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566.2024     Página 6 de 10 
+considerados fatores de risco, e de pior prognóstico para DCV. Os pacientes com sintomas depressivos têm 
+dificuldade para realização de dietas, percepção distorcida do estado físico, baixa aderência ao tratamento, 
+dificuldade de seguir  orientações  médicas,  e de realização  de atividade física. O estresse causado pelos 
+sintomas ansiosos, gera inibição do estímulo parassimpático vagal e hiperativação do sistema simpático, 
+contribuindo para o desenvolvimento de DAC por efeitos cardíacos, teciduais e plaquetário s das 
+catecolaminas. A depressão também foi associada  à diminuição  da variabilidade da frequência cardíaca, ao 
+aumento da frequência de repouso e à resposta exagerada da frequência na posição ortostática (SOUZA BC, 
+et al., 2023; VASCONCELOS ST, et al., 2023).  
+A última parte propunha determinar os conhecimentos prévios sobre o infarto. Sendo importante um 
+diálogo esclarecedor da equipe de saúde com os pacientes, visando proposta de estratégias que visem o 
+esclarecimento, prevenção de condições patológicas, e a evolução destas condições . Na população estudada, 
+27,3% (15) relataram já terem tido infarto e 56,6% (31) informaram que nenhum familiar teve infarto,  23,6%  
+(13) que o pai teve,  25,5%  (14) a mãe foi acometida  por IAM e 16,4%  (9) relataram  que algum irmão teve 
+infarto. Apesar de a maioria não apresentar histórico familiar, é importante que eles sejam esclarecidos sobre 
+o tema, principalmente aqueles que apresentam mais de um fator de risco para DCV.  Para a determinação 
+dos conhecimentos prévios os pacientes responderam 8 perguntas. Em relação à pergunta: Você sabe o que 
+é infarto agudo do miocárdio? A alternativa que mais se  adequaria  ao contexto patológico seria “É a morte de 
+células do coração por entupimento de uma artéria”. Aqui, 51% (28) dos pacientes assinalaram o esperado, 
+e 49% (27) não sabia ou nunca tinham ouvido falar, ou  sabia,  mas não conseguia explicar. Quando 
+questionados “Você acha que esses sintomas são: ‘Uma emergência, sendo necessário procurar 
+imediatamente atendimento médico’ ou ‘Não é emergência.  
+Posso procurar  atendimento médico em outro momento’’, a grande maioria, 94,5% (52) dos  pacientes  
+tinha  consciência  de ser uma emergência. Esses resultados nos mostram  que mesmo  alguns  não sabendo  o 
+significado  de IAM, a maioria entende  que é necessário  o atendimento  rápido,  pela gravidade  do caso.  Isso 
+traz uma importante informação sobre a relação tempo de atendimento e o prognóstico. Sendo que, quanto 
+mais rápido o paciente for atendido, menores a chances de aumento da extensão da áre a infartada, e de 
+sequelas pós -infarto.  Os pacientes foram questionados se frente a sintomas de infarto eles utilizaram algum 
+medicamento e para qual serviço de saúde iriam. E 36,4% (20) relataram que não utilizariam nenhum 
+medicamento, sem prescrição  médica,  25,4%  (14), utilizariam,  e 38,2%  (21) não souberam  responder.  Dados  
+esses,  que trazem preocupação frente à gravidade da ocorrência, e a não automedicação que pode mascarar 
+sintomas e dificultar um diagnóstico. Já em relação a qual serviço seria procurado, 78,2% (43) afirmaram que 
+procurariam uma Unidade de Pronto Atendimento ou um Hospital; 11% (6) um pronto socorro, 1,8% (1) o 
+consultório médico e 9,1% (5) não souberam  responder.  O que demonstra  que a maioria  se deslocaria  para 
+centros de referência que possuem condições técnicas para um atendimento adequado e rápido.  
+Duas das perguntas permitiram aos pacientes escolherem os sintomas e as complicações ou sequelas 
+relacionadas ao IAM. A porcentagem das respostas estão apresentadas na figura 1A e B. Nos principais 
+sintomas (1A), 87% (48) dos pacientes assinalaram dor ou d esconforto no peito, 62% (34) dor no braço 
+esquerdo,  60% (33) falta de ar, e 58% (33) palpitações  e sensação  que iria morrer.  As respostas  trouxeram 
+a perspectiva de que os pacientes apresentavam alguma informação em relação aos sintomas,  mas essas 
+ainda e stavam insuficientes, ao se observar respostas para sintomas que não ocorrem, ou não são frequentes.  
+O Gráfico 1B traz o entendimento dos pacientes sobre as principais complicações do IAM, pode -se perceber 
+que a maioria (85%/47) cita problemas cardíacos, arritmias (62%/34) e falência de órgãos (47%/26). Esse 
+resultado, indica que os pacientes têm uma mínima noção das sequelas pós - infarto, entretanto, porcentagens 
+relevantes (acima de 30%) ainda ass ociam condições que não se relacionam diretamente ao prognóstico pós 
+infarto  (dificuldade de fala e perda de memória).  
+ 
+                      Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+ 
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/RE AMed.e15566 .2024                                                                              Página 7 de 10 
+ Gráfico  1 - Principais  sintomase  sequelas  . 
+ 
+                  Fonte:  Horta SOD, et al., 2024.  
+ 
+ 
+ 
+
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566 .2024    Página 8 de 10 
+                      Figura 1(B)- do infarto  agudo  do miocárdio.  
+ 
+                    Fonte:  Horta SOD, et al., 2024.  
+ 
+Por último, na questão  sobre  comportamentos  importantes  para evitar  o IAM, os resultados  mostram  que 
+92,7% (51) acredita que fazer exercícios  físicos  regularmente,  traz benefícios  para a saúde,  94,5%  (52) que 
+não consumir  bebida  alcoólica  ou o consumo  moderado.  Além  disso,  caso  o indivíduo  tenha  hábito  tabágico, 
+a interrupção desse hábito foi citada por 91%  (50) dos pacientes.  Complementarmente,  consumir  alimentos 
+saudáveis, como  legumes,  verduras,  carnes  magras  e pouco  açúcar,  e qualidade  de sono,  foram  citadas  por 
+94,5% e 85,4% (52 e 47) dos pacientes, respectivamente.  Esses resultados indicam que os pacientes 
+conhecem medidas adequadas para  hábitos  saudáveis  favorecendo  ao não desenvolvimento  de doenças,  e 
+colaborar para prognósticos favoráveis, após condições patológicas.  Após a análise dos dados foi entregue 
+aos pacientes uma cartilha informativa na forma de e-book , contendo informações sobre o IAM,  garantindo , 
+em linguagem simples e adequada para o perfil observado, a oportunidade de esclarecimento  das principais 
+informações sobre esse tema .  
+A opção pela cartilha deu -se a partir da importância que estratégias de ensino em saúde, e o 
+desenvolvimento de Materiais Educativos, têm na relação dos pacientes com os  profissionais  de saúde,  na 
+busca por informações sobre saúde e na autonomia relacionada à sua própria saúde. De acordo com o 
+Glossário Temático do Ministério da Saúde (2013), a educação em saúde é  um processo  de construção  de 
+conhecimentos, e auxilia no entendimento pela população, favorecendo a autonomia das pessoas. A 
+educação em saúde auxilia, então, no controle social, polític as e serviços  favorecendo  as necessidades  da 
+população. Ressalta -se o conceito de educação popular em saúde que  com ações  educativas  promovem  a 
+inclusão social e autonomia, a capacidade de opinar nas decisões de saúde para cuidar de  si, da família  e do 
+coletivo (BRASIL, 2013). Destaca -se que no Sistema Único de Saúde é recorrente o uso de materiais 
+educativos pelos resultados, que essa estratégia traz com informações objetivas, rápidas  e esclarecedoras 
+(SÃO PAULO, s.d).  
+ 
+CONCLUSÃO  
+O IAM é  uma importante  causa  de morbimortalidade,  mas ainda  existem  informações  a serem  difundidas 
+e reforçadas para a população sobre o tema, como suas manifestações, onde buscar atendimento e as 
+sequelas, para evitar atrasos no atendimento. Dessa forma, a educação em saúde por meio de materiais 
+elaborados em linguagem adequada e de fácil en tendimento, constitui uma opção eficaz para ações de 
+promoção de saúde.  
+
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566 .2024    Página 9 de 10 
+AGRADECIMENTOS  
+A Faminas BH pelo financiamento das bolsas dos alunos de iniciação científica, e ao Centro  de Saúde, em 
+especial a Sra Danielle Peixoto da Silva, diretora geral, por ceder o espaço e permitir a obtenção de dados.
+ 
+ 
+REFERÊNCIAS  
+1. ALEGRIA S, et al. Estratégias de Revascularização em Doentes com Infarto Agudo do Miocárdio  em 
+Choque Cardiogênico – Resultados do Registo Português de Síndromes Coronárias Agudas. Arq Bras 
+Cardiol, 2021; 116(5):  867. 
+2. ALVES L e POLANCZYK CA. Hospitalização por Infarto Agudo  do Miocárdio:  Um Registro  de Base 
+Populacional. Arquivos Brasileiros de Cardiologia, 2020; 115(5): 916.  
+3. ANDRADE VM, et al. Fatores socioeconômicos e mortalidade no infarto agudo do miocárdio 
+Socioeconomic factors and mortality in acute myocardial infarction. Brazilian Journal of  Development, 
+2021; 7(7): 73734.  
+4. BETT MS, et al. Infarto agudo do miocárdio: Do diagnóstico à intervenção. Research, Society and 
+Development, 2022; 11(3): 23811326447.  
+5. BIDDINGER KJ, et al. Association of Habitual Alcohol Intake With Risk of Cardiovascular Disease. Jama 
+Network Open, 2022; 5(3): 223849.  
+6. BRASIL. Ministério da Saúde. Glossário Temático: Gestão do Trabalho e da Educação na Saúde. Projeto 
+de Terminologia da Saúde. 2013 ; 2. 
+7. BRASIL. Ministério da  Saúde.  Secretaria de  Atenção  Primária  à Saúde.  Departamento de Promoção 
+da Saúde. Estratégia de  Saúde Cardiovascular na Atenção Primária  à Saúde: instrutivo  para 
+profissionais  e gestores  [recurso  eletrônico]. / Ministério  da Saúde,  Secretaria de  Atenção  Primária  
+à Saúde. -Brasília: Ministério da Saúde, 2022.  
+8. HORTA SOD, et al. Conheça o infarto do coração: cartilha informativa sobre o infarto  agudo do Miocárdio. 
+[recurso eletrônico] / . – Belo Horizonte : Faculdade de Minas Gerais – Curso de Medicina, 2022 ; 15: 150. 
+9. KANG YP, et al. Características Clínicas e Eventos Adversos em Pacientes com Síndrome Coronariana 
+Aguda e História de Doença Arterial Periférica. Arquivos Brasileiros de Cardiologia, 2019; 113: 367.  
+10. LUZ TC, et al. Fatores de risco cardiovascular em uma população  rural brasileira.  Ciência  & Saúde 
+Coletiva, 2020; 25: 3921 . 
+11. MARQUES MC, et al. Prevalência do diabetes e da hiperglicemia de estresse no infarto agudo do 
+miocárdio: análise em um serviço de emergência. JBMEDE -Jornal Brasileiro de Medicina de Emergência, 
+2022; 2(1): 22003 . 
+12. MARTINS MVF, et al. Uso de Terapia de Reposição Hormonal para Prevenção de Doenças 
+Cardiovasculares na Pós -menopausa: Uma Revisão Sistemática/Use of Hormone Replacement Therapy 
+to Prevent Postmenopausal Cardiovascular Diseases: A Systematic Review. Brazili an Journal of 
+Development, 2021; 7(6): 64276.  
+13. NUNES  PI, et al. Hipertensão arterial e diabetes mellitus como fatores de risco para infarto agudo do 
+miocárdio em idosos. Brazilian Journal of Health Review, 2022; 5(2): 7885.  
+14. OLIVEIRA G, et al. Agregação dos fatores de  risco  cardiovascular:  álcool,  fumo,  excesso  de peso  e sono 
+de curta duração em adolescentes do estudo ERICA. Cadernos de Saúde Pública, 2019; 35(12): 
+0022331.  
+15. PAHO. Pan American Health Organization. Cardiovascular disease burden in the Region of the Americas, 
+2000 -2019. ENLACE data portal. 2021.  
+16. PRECOMA DB. A Educação como Determinante Social Associado ao Risco Cardiovascular. Arquivos 
+Brasileiros de Cardiologia, 2021; 117: 13.  
+17. SÃO  PAULO.  Secretaria  de Estado  da Saúde.  Cartilha  de Prevenção  Cardiovascular.  23 pp. s.d. 
+18. SILVA  CI, et al. Análise  da qualidade  do sono  em indivíduos  com Síndrome Coronária  Aguda.  
+Texto  contexto  - enferm  [Internet].  2023;  32: 20220338.  
+19. SOUSA AR, et al. Vivências de homens idosos acerca do acometimento por infarto agudo do miocárdio. 
+Acta paul enferm. 2021; 34(34):  APE00902 . 
+                   Revista Eletrônica Acervo Médico | ISSN 2764 -0485  
+ 
+                      
+ 
+REAMed | Vol. 24  | DOI: https://doi.org/10.25248/REA Med.e15566 .2024    Página 10 de 10 
+20. SOUSA ELA, et al. Avaliação  do perfil socioeconômico  de óbitos  por doenças cardiovasculares 
+em Palmas -TO, no período  de 2014  a 2016. Revista  de Patologia do Tocantins, 2020; 7(2): 17.  
+21. SOUZA BC, et al. Depressão e doenças cardiovasculares: dos mecanismos de associação às evidências 
+sobre prognóstico e tratamento. Cuadernos de Educación y Desarrollo, 2023; 15(5) : 4039.  
+22. VASCONCELOS  ST, et al. Efeitos  dos transtornos de ansiedade nas doenças cardiovasculares: uma 
+revisão integrativa. REAMed [Internet]. 2023, 1(1): 9014.  
+23. WENDT  A, et al. Análise  temporal  da desigualdade  em escolaridade  no tabagismo  e consumo 
+abusivo de álcool nas capitais brasileiras. Cadernos de Saúde Pública, 2021; 37: 00050120.  
+24. WHO.  World  Health  Organization.  Global  Health  Estimates  2019.  
+ 

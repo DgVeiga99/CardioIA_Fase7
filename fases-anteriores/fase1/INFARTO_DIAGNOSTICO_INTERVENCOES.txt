@@ -1,0 +1,606 @@
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+  
+ 
+ 
+ 
+ 
+Infarto: diagnóstico e intervenções atualizadas contra uma das 
+condições mais mortais do mundo  
+Daniely Dhara Bittencourt , Ingrid Fernandes Loiola, Maria Eduarda Barbosa Silva , 
+Juliana Barbosa de Almeida , Valéria Ferreira Rodrigues Chaves , Gabriel Sanchez 
+Pecoraro, Nídia Ledur Müller, Lucas Octávio Meneses Araújo, Hélio Daniel Araújo 
+Lima, Omilto de Souza Machado Filho, Rhuan Gabriel dos Prazeres Roriz, Matheus 
+Messias Miranda Salles , Bruno Guilherme da Silva Lima, Júlio Magalhães Máximo 
+Lacerda  
+ 
+ https://doi.org/10.36557/2674-8169.2025v7n3p 2203 -2220 
+ Artigo recebido em 20 de Fevereiro e publicado em 30 de Março de 2025  
+ 
+Revisão de literatura  
+RESUMO 
+O objetivo deste estudo é expor os principais avanços acerca do infarto agudo do 
+miocárdio, principalmente sobre o diagnóstico e sobre o manejo. E em segun do plano, 
+expor os principais tratamentos contra a doença. No Brasil e globalmente,  o Infarto 
+Agudo do Miocárdio é uma das principais causas de óbito. Um dos elementos  cruciais 
+para a morbimortalidade desta condição é o intervalo de tempo entre o  surgimento dos 
+sintomas e o começo do tratamento.  Destaca-se a relevância da eletrocardiografia no 
+diagnóstico, aliada aos indicadores bioquímicos e de imagem, bem como as ações 
+necessárias para restabelecer a irrigação do coração, que incluem o uso de 
+medicamentos como analgésicos, anticoagulantes e terapias fibrinolíticas. Portanto, 
+enfatiza-se a importância de procurar assistência médica ao notar os primeiros sinais e 
+sintomas, a fim de identificar e realizar as intervenções necessárias, com o obj etivo de 
+preservar a qualidade de vida.  
+Palavras-chave: Fibrinolítico; Infarto agudo do miocárdio; Lesão de reperfusão; 
+Reperfusão do miocárdio; Tratamento. 
+ 
+ 
+ 
+ 
+
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ Myocardial Infarction: Diagnosis and Updated 
+Interventions Against One of the Deadliest Conditions in 
+the World 
+Abstract 
+The aim of this study is to present the main advances regarding acute  myocardial 
+infarction, primarily focusing on diagnosis and management. Secondly, it highl ights the 
+main treatments against the disease. In Brazil and globally, Acute Myocard ial Infarction 
+is one of the leading causes of death. One of the crucial elements for th e morbidity and 
+mortality of this condition is the time interval between the onse t of symptoms and the 
+start of treatment. The importance of electrocardiography in diagnosis stands out, 
+combined with biochemical and imaging indicators, as well as the necessary act ions to 
+restore coronary circulation, including the use of medications such as analgesi cs, 
+anticoagulants, and fibrinolytic therapies. Therefore, the importance of se eking medical 
+assistance when the first signs and symptoms appear is emphasized, in order  to identify 
+and implement the necessary interventions to preserve quality of life.  
+Keywords:  Fibrinolytic; Acute Myocardial Infarction; Reperfusion Injury; Myocardial 
+Reperfusion; Treatment. 
+ 
+ 
+                         
+ 
+This work is licensed under a Creative Commons Attribution 4.0 
+International  LicenseAutor correspondente : Daniely Dhara Bittencourt - danibittencourt1608@gmail.com   
+ 
+
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ INTRODUÇÃO 
+A doença arterial coronariana (DAC), particularmente o infarto agudo do 
+miocárdio (IAM), é uma das principais causas de morbimortalidade mundial, sendo um a 
+das condições mais mortais dos tempos modernos. Segundo a Organização Mundial da 
+Saúde (OMS), as doenças cardiovasculares são responsáveis por cerca de 31% das 
+mortes globais. Prevê-se que até 2030 esse percentual suba para 25 milhões de mortes 
+anuais, consolidando-se como a principal causa de óbito em todo o mund o. No Brasil, o 
+IAM é a principal causa de óbito associada às Doenças Cardiovasculares, evidenciando a 
+seriedade e a magnitude dessa condição no cenário nacional (1).  
+O crescimento exponencial da incidência de doenças cardiovasculares nas 
+últimas décadas tem sido frequentemente ligado a alterações no modo de vida, 
+particularmente após a Revolução Industrial do século XVIII. A crescente ingestão  de 
+dietas ricas em carboidratos refinados, gorduras saturadas, o crescimento do consumo 
+de tabaco e a diminuição da atividade física resultaram em um aument o considerável 
+em fatores de risco modificáveis, como hipertensão, hipercolesterolemia e diabetes 
+mellitus. Isso, por sua vez, provocou um aumento na prevalência de Doenças 
+Cardiovasculares ao longo dos séculos XX e XXI. Não apenas nas nações desenvolvidas, 
+mas também em países em desenvolvimento, como o Brasil, as taxas de mortalidade 
+relacionadas ao IAM continuam a aumentar (2,3). 
+Em nações como os Estados Unidos, dados de 2016 apontam que um ataque 
+cardíaco acontece a cada 42 segundos, destacando a elevada prevalência desta 
+condição. Quando não tratado de maneira adequada e imediata, o infarto d o miocárdio 
+pode levar a elevadas taxas de mortalidade. Cerca de 40% a 65% dos óbitos acont ecem 
+nas primeiras horas após o surgimento dos sintomas clínicos da doença, sendo 80% nas 
+primeiras 24 horas. Esses dados destacam a relevância de um diagnóstico ágil e de uma 
+ação imediata para potencializar as possibilidades de sobrevivência dos pacientes 
+afetados. A teoria sugerida por Eugene Braunwald, de que "tempo é músculo", 
+transformou o entendimento sobre o tratamento do IAM. Braunwald propôs qu e o 
+ataque cardíaco é um fenômeno em constante mudança, e que o prognóstico do 
+paciente está diretamente ligado ao tamanho da região infartada e, sobretudo, ao 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ intervalo de tempo entre a oclusão coronariana e o começo do tratamento. De acordo 
+com essa teoria, a probabilidade de recuperação do miocárdio cresce 
+consideravelmente nas primeiras horas após um evento isquêmico, e essa recuperação 
+é diretamente proporcional ao tempo necessário para o tratamento apropriado. Para  
+complementar essa estratégia, R. Adams Cowley cunhou o termo "hora de ouro" em 
+1975, sustentando que a primeira hora após um ataque cardíaco é crucial  para a 
+sobrevivência do paciente, pois é nesse intervalo que ocorre a recuperação máxima do 
+miocárdio (1,2,3). 
+ 
+Com base nos estudos de Reimer et al. (1977), ficou claro que a progressão do 
+IAM acontece de forma lenta, passando da lesão isquêmica do endocárdio para o 
+epicárdio (5). O tamanho final do ataque cardíaco não se limita apenas à áre a afetada, 
+mas também ao tempo necessário para restabelecer a perfusão do miocárdio. Este 
+resultado destacou a necessidade de uma ação rápida e eficiente para reduzir a 
+gravidade do infarto e suas complicações subsequentes. Esses princípios serviram como 
+fundamento para a definição de um intervalo temporal de intervenção, onde o  
+tratamento ideal deve acontecer em até 90 minutos após o diagnóstico, sendo a "hora 
+de ouro" estabelecida em 60 minutos.  Pesquisas recentes enfatizam que a intervenção 
+antecipada, seja através de trombólise ou angioplastia coronária primária, é cruc ial para 
+diminuir a mortalidade e a morbidade relacionadas ao Infarto Agudo do Miocárd io (3,4). 
+Assim, a detecção antecipada e a intervenção imediata do IAM são essenciais 
+para aprimorar o prognóstico do paciente. Neste cenário, a rápida avaliação clínica, a 
+aplicação de biomarcadores cardíacos e as estratégias terapêuticas modernas, como a 
+angioplastia coronária primária, têm se revelado fundamentais para diminuir os da nos 
+ao miocárdio e aumentar as taxas de sobrevivência (4). 
+O objetivo deste estudo é expor os principais avanços acerca do infarto agudo 
+do miocárdio, principalmente sobre o diagnóstico e sobre o manejo. E em segundo  
+plano, expor os principais tratamentos contra a doença.  
+METODOLOGIA  
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ O presente estudo trata-se de uma revisão narrativa de caráter crítico e an alítico, 
+na  pesquisa  sobre os principais  conceitos  no que tange o IAM e seus p rincipais 
+manejos. Foi  realizada  uma  revisão  de  artigos  nas  bases  de  dados   Scientific  
+Electronic  Library  Online (SciELO) e PubMed, com os seguintes Descritores em Ciências  
+da  Saúde  (DeCS): Fibrinolítico; Infarto agudo do miocárdio; Lesão de reperf usão; 
+Reperfusão do miocárdio; Tratamento. Selecionando artigos entre os períodos de 1997 
+a 2024, nos idiomas Inglês,  Português e Espanhol para ampliar o nível de re levância e a 
+qualidade da revisão, além do embasamento técnico-científico advindo d e obras 
+literárias conceituadas pela história. Por conta  dessas  descrições,  foram  en contrados 
+3856 artigos,  sendo  analisados os  títulos,  resumos  e  resultados.  
+ 
+Logo,  foram  empregados  filtros  a  partir  de:  conter assuntos  principais,  
+disponibilidade  da  versão  ampla  e completa, conter as palavras-chaves e período de 
+1977 a 2024. Uma  segunda  filtração  seguiu  os  parâmetros:  (a)  período da  pesqu isa  
+até 25 anos; (b) se possuía todas as palavras-chaves reunidas; (c) a quantidade de 
+citações que o artigo possui; (d) a linguagem adotada na pesquisa; (e) o ní vel de 
+evidência do estudo; (f)   a   composição   referencial   do   trabalho,    obtendo   assim  
+1421  artigos.    
+ 
+Foram encontrados na SciELO 867 artigos, onde foram excluídos 849 artigos.   No   
+PubMed   foram encontrados 554 artigos, mas foram excluídos 537 artigos. Totalizand o 
+35 artigos  selecionados  nas duas bases de dados. Os  artigos  excluídos  foram  
+determinados  pela  duplicação  das  bases  de  dados ou pelas nature zas de metodologia, 
+como: estudos qualitativos e estudos apenas com relatórios transversais.  
+ 
+RESULTADOS E DISCUSSÃO 
+O diagnóstico do infarto do miocárdio (IM) pode ser feito através de várias 
+técnicas, sendo o eletrocardiograma (ECG) um instrumento crucial para uma avaliação 
+cardiológica ágil e econômica. Apesar das limitações do ECG na detecção de síndromes 
+coronarianas agudas, sua utilização continua sendo extensa devido à sua habilidad e de 
+fornecer dados vitais sobre o estado diagnóstico, evolução e prognóstico das 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ enfermidades cardiovasculares. O Eletrocardiograma (ECG) é uma representação visual 
+da atividade elétrica do coração ao longo do tempo, obtida através da instalação de 
+eletrodos em áreas específicas do corpo. O coração é formado por duas categorias 
+celulares essenciais: os cardiomiócitos, encarregados da contração muscular, e as 
+células de marca-passo, que produzem e transportam impulsos elétricos através das 
+diversas câmaras cardíacas.  Estas últimas são vitais para a propagação da atividade 
+elétrica nos átrios e ventrículos, já que essas câmaras são isoladas eletricamente uma 
+da outra (6,7). 
+ 
+O nodo sinoatrial (NSA), localizado na região entre a veia cava superior e o átrio 
+direito, é o principal responsável pela geração do estímulo elétrico. O impulso originad o 
+no NSA se propaga unidirecionalmente até o nodo atrioventricular (NAV), situado na 
+base do átrio direito, onde ocorre uma diminuição da atividade elétrica. Isso p ossibilita 
+a adequada contração dos átrios e a completa preenchimento dos ventrículos. Então, o 
+estímulo é conduzido pelos feixes de His e fibras de Purkinje até os ventrí culos, 
+provocando a contração ventricular (8). 
+ 
+Durante a realização do ECG, são registrados os potenciais elétricos que se g eram 
+nas diferentes fases do ciclo cardíaco. Cada onda ou deflexão observada no traçado d o 
+ECG corresponde à despolarização e repolarização das partes específicas do coração. A 
+despolarização, que precede a contração muscular, é representada pelas ondas do ECG, 
+associadas diretamente à contração dos átrios e ventrículos. As ondas principais 
+observadas são a onda P, que indica a contração atrial; o complexo QRS, que represen ta 
+a despolarização e contração ventricular; e a onda T, associada à repolarização 
+ventricular. A onda U, menos comum, reflete a repolarização final dos ventrículos (9). 
+ 
+A modificação da onda T e do segmento ST é um dos primeiros sinais de isquemi a 
+do miocárdio, sendo essencial para a detecção antecipada do ataque cardíaco. O 
+segmento ST, situado entre a despolarização e a repolarização do ventrículo, 
+desempenha um papel crucial na diferenciação entre diversas formas de síndrom es 
+coronarianas agudas. No infarto com elevação do segmento ST (IAM com ST), ocorre 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ uma elevação típica do segmento ST em duas ou mais derivações, indicando a obst rução 
+de uma artéria coronária e a subsequente isquemia do miocárdio (10). 
+ 
+A alteração nos tecidos musculares epicárdicos ocorre quando uma artéria 
+coronária está completamente bloqueada, sendo registrada no eletrocardiograma c omo 
+o supradesnivelamento do segmento ST. Este fenômeno surge nos instantes iniciais  após 
+o começo da isquemia, podendo se estabilizar nas primeiras 12 horas ou até voltar ao 
+estado inicial em 72 horas. Para identificar com precisão a subida do segmento ST, é 
+necessário analisar a elevação do ponto J em duas ou mais derivações adjacentes, 
+medindo a partir de uma linha reta que vai da borda superior do segmento PR até a 
+borda superior do segmento ST no ponto J (11). 
+ 
+Quando interpretado por um profissional qualificado, o ECG realizado no local 
+de atendimento pode diminuir consideravelmente o tempo até o começo de um 
+tratamento efetivo, resultando em uma redução do tempo necessário para 
+procedimentos como a angioplastia, quando recomendada. Esta identifi cação imediata 
+auxilia diretamente na diminuição da mortalidade hospitalar em pacientes q ue sofreram 
+um infarto do miocárdio. Em 2018, a Sociedade Europeia de Cardiologia (ESC) atuali zou 
+a definição de IM, introduzindo uma distinção significativa entre  a lesão miocárdica e o 
+infarto do miocárdio. A lesão no miocárdio se manifesta através do crescimento  de 
+biomarcadores cardíacos, como a troponina, que, pelo menos, supera o limite máximo 
+de referência (LMR) do percentil 99. Este crescimento, quando associado a alterações 
+nos níveis de troponina, sinaliza uma lesão aguda, necessitando de uma avaliação clín ica 
+adicional para confirmar o diagnóstico (12,13). 
+Portanto, a lesão miocárdica é categorizada como aguda se ocorrer um aumento 
+ou decréscimo nos níveis de troponina. O diagnóstico de infarto do miocárdio ocorre  
+quando a lesão no miocárdio está associada a indícios clínicos e laborator iais de 
+isquemia miocárdica aguda. Isso engloba a elevação ou queda dos biomarcadores 
+cardíacos, pelo menos um valor acima do limite superior de referência (percentil 99 ), 
+juntamente com sintomas característicos de isquemia, mudanças eletrocardiográfi cas 
+que sugerem padrões isquêmicos, achados em exames de imagem que revelam áreas 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ isquêmicas ou fibrose, ou a identificação de trombo coronariano através de angiograf ia 
+ou autópsia (14). 
+A síndrome coronariana aguda engloba uma variedade de condições ligadas à 
+isquemia miocárdica aguda. O infarto do miocárdio é categorizado em três principais  
+manifestações clínicas: angina instável, infarto do miocárdio sem supradesnivelamen to 
+do segmento ST e infarto do miocárdio com supradesnivelamento do segmento  ST. Cada 
+tipo de ataque cardíaco é categorizado de acordo com sua etiologia básica, 
+particularmente em relação à causa da isquemia miocárdica persistente. Há vári as 
+categorias de infarto do miocárdio, categorizadas com base na provável causa da 
+isquemia. O Infarto Agudo do Miocárdio Tipo 1 está ligado à ruptura ou erosão de uma 
+placa de aterosclerose, resultando na formação de trombos no coração. Esta categoria 
+pode ser definida pela síndrome coronariana, com ou sem elevação do segme nto ST 
+(15,16).  
+Por outro lado, o Infarto do Miocárdio Tipo 2 acontece devido a um desequilíbrio 
+entre a disponibilidade e a necessidade de oxigênio, comumente notado em situações 
+clínicas adversas, como em pacientes com doença arterial coronariana estável, anemia 
+severa ou espasmo coronariano. Por outro lado, o Infarto do Miocárdio Tipo 3 se 
+caracteriza por um falecimento súbito de causa coronariana, sem evidências 
+eletrocardiográficas ou elevação de biomarcadores, geralmente diagnosticado após a 
+morte. As complicações resultantes de procedimentos hemodinâmicos ou cirurgia de 
+revascularização do miocárdio Tipos 4 e 5 estão associadas. Em relação ao tratamento 
+do infarto do miocárdio, as lesões isquêmicas e hipóxicas são os tipos mais freq uentes 
+de dano celular, sendo amplamente investigadas em modelos experimentais e clínicos  
+(17,18).  
+  Ao contrário da hipóxia, uma lesão isquêmica interrompe a entrega de 
+substratos ao tecido, levando a uma restrição do metabolismo glicolítico.  Nos tecidos 
+isquêmicos, a geração de energia anaeróbica é interrompida quando os subs tratos 
+glicolíticos são consumidos ou bloqueados pela acumulação de metabólitos que não 
+foram eliminados pela perfusão. Isso resulta em uma progressão acelerada da lesão 
+tecidual, em contraste com a hipóxia, que permite a continuidade do metaboli smo 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ glicolítico. No cenário de isquemia do miocárdio, ocorre uma lesão estrutural e 
+bioquímica progressiva do tecido cardíaco, resultando em um dano irreparável às células 
+do coração e, eventualmente, à morte destas. A interrupção do avanço da l esão pode 
+possibilitar a reperfusão, devolvendo ao miocárdio o fornecimento de oxigênio e 
+substratos metabólicos (19).  
+Contudo, se o período de isquemia for prolongado, a reparação celular se torna 
+inviável, levando a um dano irreparável, que inclui a perda da função mitocondrial , o 
+aumento da permeabilidade celular a moléculas externas, bem como mudanças 
+estruturais na membrana plasmática. A intervenção precoce, como a reperfusão, é vital 
+para minimizar os danos e aprimorar os desfechos clínicos em pacientes com infarto d o 
+miocárdio, restringindo a evolução da lesão e a taxa de mortalidade relacion ada à 
+condição. No entanto, se a reperfusão ocorrer tardiamente, pode não ser suficient e para 
+restabelecer a função celular correta, intensificando o dano ao tecido (20).  
+O eletrocardiograma mostra uma alteração rápida no estado do tecido 
+miocárdico na área de risco, que se manifesta quase instantaneamente, com a redução 
+da amplitude da onda R e o aparecimento de uma onda Q. Ademais, a diminuição d e 
+enzimas citosólicas e a demonstração morfológica de morte celular, notada em a nálises 
+pós-morte, são aspectos ligados a esse processo. Este cenário paradoxal indica que, 
+apesar da reoxigenação ou da recuperação do fluxo sanguíneo serem fundamentais par a 
+a sobrevivência do tecido, podem realmente ser danosos. O restabelecimento da 
+irrigação numa área isquêmica pode levar a danos adicionais devido à lesão por 
+reperfusão, um fenômeno onde a retomada do fluxo sanguíneo provoca ainda mais 
+danos nos tecidos (21). 
+Os processos celulares e moleculares que levam à lesão reperfusional englobam 
+estresse oxidativo, modificação e danos nas membranas mitocondriais, excesso de 
+cálcio, contração muscular excessiva, apoptose, ativação inflamatória, ativação de 
+plaquetas e disfunção endotelial. Esses processos podem resultar em sintomas c línicos 
+severos, como morte por reperfusão, disfunção microvascular, entorpecimento do 
+miocárdio e arritmias. Para lidar com essas lesões, é essencial adotar ações terapêut icas 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ apropriadas para reduzir os prejuízos resultantes tanto da isquemia quant o da 
+reperfusão (22).  
+A suplementação de oxigênio tem sido frequentemente empregada no 
+tratamento de pacientes com suspeita de IAM, particularmente nas primeiras horas 
+após o incidente. Para pacientes com saturação de oxigênio abaixo de 90%, é 
+recomendada a administração inicial de 3 L/min a 100% por meio de cateter nasal. No 
+entanto, a efetividade da oxigenoterapia diária em pacientes com IAM ai nda é um 
+assunto controverso, e sua aplicação é incerta quanto aos benefícios duradouros para 
+todos os pacientes. Frequentemente, o ataque cardíaco vem acompanhado de dor no 
+peito, que se manifesta como um aperto ou desconforto, podendo se estender ao s 
+ombros, braços, costas, pescoço ou mandíbula.  O alívio da dor não é apenas importante 
+para o bem-estar do paciente, mas também para evitar complicações associadas ao 
+estresse físico e emocional causado pela dor. Este estresse leva à liberação maciça de  
+catecolaminas, o que pode causar aumento da pressão arterial, frequência cardíaca e 
+volume sistólico. Essas alterações podem comprometer o suprimento sanguíneo ao 
+miocárdio, exacerbando a extensão do infarto e piorando o quadro clínico do  paciente 
+(23). 
+A morfina é o analgésico preferido no tratamento do IAM desde 1923, graças ao 
+seu potente efeito analgésico, habilidade de induzir sedação e reduzir a an siedade. Isso 
+auxilia na diminuição da produção de catecolaminas, reduzindo a n ecessidade 
+metabólica do miocárdio. Ademais, é sugerido o uso de benzodiazepínicos para 
+pacientes que sofrem de ansiedade persistente. A aplicação antecipada de ácido 
+acetilsalicílico (AAS) é um dos primeiros métodos no tratamento do IAM, visando 
+bloquear a produção de tromboxano A2 (TxA2) por meio da inibição irreversível da  
+enzima cicloxigenase-1 (COX-1). Desde a antiguidade, o AAS tem sido extensivament e 
+usado, sendo o princípio ativo proveniente da casca do salgueiro (24,25). 
+Pesquisas clínicas indicam que a administração precoce de AAS diminui o risco 
+de morte em 23% quando usado isoladamente e em até 43% quando associado a 
+fibrinolíticos, além de reduzir a probabilidade de re-obstrução c oronariana e ocorrência 
+de novos episódios isquêmicos. A dose diária sugerida é de 160 a 325 mg, com exceção 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ de situações de alergia ao medicamento ou sangramento digestivo. Ademais, 
+medicamentos que inibem a ativação plaquetária, como os antagonistas dos recept ores 
+P2Y12 (clopidogrel, prasugrel, ticagrelor), demonstraram eficácia considerável na 
+diminuição de eventos trombóticos. O clopidogrel, comumente receitado em doses 
+iniciais de 300-600 mg, seguidas por uma dose diária de manutenção de 75 mg, é um  
+caso amplamente utilizado. Contudo, a ação gradual do clopidogrel e a ausência de  
+resposta apropriada em alguns pacientes restringem sua efetividade em certas 
+circunstâncias (26).  
+Os nitratos, como o trinitrato de glicerila (nitroglicerina), são fundamentais no 
+tratamento do infarto agudo do miocárdio, sendo empregados na produção de óxido 
+nítrico (NO), um mediador com capacidades vasodilatadoras. O uso de nitratos di minui 
+a força de contração do coração e a necessidade de oxigênio, contribuindo para 
+amenizar a angina e evitar complicações. Contudo, a utilização de nitratos p ode ser 
+restringida devido à tolerância adquirida após uso contínuo, bem como à disfun ção 
+endotelial. A dosagem sugerida oscila entre 0,4 mg de nitroglicerina ou 5,0 mg de 
+mononitrato de isossorbida, podendo ser administrada em até três doses, separadas por 
+um intervalo de 5 minutos (27, 28).  
+Ao escolher o método de reperfusão coronariana para pacientes com IAM, é 
+crucial considerar as condições técnicas e estruturais do hospital onde o pacien te se 
+encontra. Em um cenário ideal, com o devido apoio técnico e estrutural, que i nclui uma 
+sala de hemodinâmica aberta 24 horas por dia e um tempo de porta-balão inferi or a 90 
+minutos, a angioplastia (também conhecida como ICP) é comumente vista como a 
+terapia preferida para a reperfusão do coração. É crucial a experiência do ce ntro de 
+atendimento, que realiza pelo menos 200 procedimentos por ano e tem uma méd ia 
+anual de 75 procedimentos, para assegurar a efetividade desta estratégia (29). 
+ 
+A primeira abordagem percutânea implementada para reverter o IAM foi a 
+intervenção coronariana percutânea (ICP). O indicador denominado "tempo por ta-
+balão", que mede o período entre a entrada do paciente no hospital e a normalização 
+do fluxo coronariano após a inflação do balão, tornou-se crucial na admini stração do 
+IAM (30). Ao longo dos anos, surgiram novas técnicas percutâneas, como o uso de 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ stents, tanto farmacológicos quanto não farmacológicos, além de procedimentos como 
+a trombectomia e a tromboaspiração (31). 
+ 
+Hoje em dia, a ICP primária é considerada a estratégia mais apropriada, 
+principalmente se executada em até 90 minutos após a admissão do paciente, em 
+instituições que executam, pelo menos, 200 procedimentos anualmente. Essa técnica 
+tem se mostrado mais eficiente do que a terapia trombolítica, pois con segue restaurar 
+o fluxo coronariano e melhorar ahemodinâmica em mais de 90% das situações, ao 
+mesmo tempo em que diminui as taxas de IAM e suas repercussões, contribuindo  para 
+um aumento significativo na taxa de sobrevida dos pacientes (32). 
+ 
+Embora a terapia fibrinolítica tenha sido apoiada por uma série de estudos 
+relevantes, sua eficácia é restrita dependendo do período após o início dos sintomas. A 
+metanálise FTT (Trials of Fibrinolytic Therapy), que engloba as maiores pesquisas sobre 
+agentes fibrinolíticos, revelou que a efetividade do tratamento declina  com o tempo de 
+administração do fibrinolítico. A terapia fibrinolítica não traz benefí cios após 12 horas 
+do aparecimento dos sintomas, sendo mais efetiva quando iniciada até 3 horas após o 
+começo do infarto agudo do miocárdio (34). 
+ 
+ No Brasil, são comumente usados três tipos de agentes fibrinolíticos, cada um 
+com particularidades que exigem cuidado ao serem aplicados: 
+Estreptoquinase (SK): É uma proteína isolada de estreptococos beta-hemolíticos que é 
+purificada. A estreptoquinase pode ter sua eficácia reduzida em pacientes com 
+resistência imunológica a essa bactéria, além de poder causar alterações na pressão 
+arterial e na frequência cardíaca, levando a uma instabilidade hemodinâmica qu e requer 
+medidas adicionais. Alteplase (tPA): Uma enzima com alta afinidade pela fibri na, capaz 
+de converter plasminogênio em plasmina de maneira mais eficaz do que a 
+estreptoquinase. Embora a alteplase seja um dos fibrinolíticos mais comument e 
+empregados, sua meia-vida é bastante curta, exigindo a administração de heparina para 
+prevenir a reobstrução das artérias coronárias. Tenecteplase (TNK): Trata-se de um 
+trombolítico mais eficiente que a alteplase, com uma meia-vida mais extensa e alt a 
+especificidade para a fibrina. O seu principal benefício reside na capac idade de ser 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ administrada em uma única dose em bolus, o que a torna uma ótima opção para 
+tratamento inicial, particularmente em cenários pré-hospitalares. Contudo, o alto custo 
+deste medicamento restringe sua utilização em grande escala no âmbito do Sistema 
+Único de Saúde. Vários fatores influenciam a escolha do método para a reper fusão 
+coronária, incluindo a experiência do hospital, o período até a execução  do 
+procedimento e o estado clínico do paciente (35).  
+ 
+ 
+CONCLUSÃO  
+ 
+O ataque cardíaco agudo é uma das principais causas de óbitos globalmente, 
+contribuindo também para uma diminuição considerável na qualidade de vida dos 
+sobreviventes. A etiologia predominante do IAM é a ruptura de uma lesão 
+aterosclerótica, resultando na formação de um trombo que interrompe o  fluxo 
+sanguíneo e provoca isquemia do miocárdio, que pode ser contínua ou intermitent e. Os 
+sinais clínicos englobam dor torácica, falta de ar, desconforto epigástrico e dor no braço.  
+A identificação e o tratamento precoces são fundamentais para o êxito terapêutico. É 
+importante salientar que o intervalo entre o surgimento dos sintomas e o iníci o do 
+tratamento está diretamente ligado à ocorrência de eventos clínicos relevantes, sendo 
+fundamental para o êxito da reperfusão.  Portanto, o tratamento depende fortemente 
+do tempo.  
+Dentro do cenário de regionalização e da existência de recursos locais, diversos 
+estados e até mesmo regiões dentro de um mesmo estado não estão adequadamente 
+estruturados para aprimorar o cuidado aos pacientes com síndrome coronaria na aguda, 
+o que pode levar a um tratamento ineficaz. Quando o sistema de saúde adota uma  
+abordagem coordenada e eficaz, com táticas preventivas e rápida execução de 
+intervenções para tratar doenças específicas, como o IAM. É crucial a educação pa ra 
+diminuir a morbimortalidade relacionada ao IAM, enfatizando a importân cia de uma 
+intervenção precoce. Este processo de sensibilização é especialmente relevante para as 
+mulheres, que frequentemente exibem sintomas incomuns e enfrentam mais 
+obstáculos para identificar os indícios de um ataque cardíaco. Embora os tratamentos e  
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ técnicas descritos neste artigo tenham demonstrado eficácia, o conhecimento médico 
+está em constante evolução. Portanto, é fundamental que as práticas e in tervenções 
+relacionadas ao IAM sejam constantemente revisadas e atualizadas, garantindo o 
+acompanhamento científico mais recente para um tratamento mais eficaz e seguro . 
+ 
+REFERÊNCIAS 
+ 
+1. OLIVEIRA, Sarah Nunes et al. Infarto agudo do miocárdio com supra de segmento 
+ST: Uma revisão do diagnóstico, fisiopatologia, epidemiologia, 
+morbimortalidade, complicações e manejo. Research, Society and 
+Development , v. 13, n. 2, p. e1113244954-e1113244954, 2024.  
+2. KAPTOGE, Stephen et al. World Health Organization cardiovascular disease risk 
+charts: revised models to estimate risk in 21 global regions. The Lancet global 
+health , v. 7, n. 10, p. e1332-e1345, 2019.  
+3. DALEN, James E. et al. The epidemic of the 20th century: coronary heart disease. 
+The American journal of medicine , v. 127, n. 9, p. 807-812, 2014.  
+4. IBANEZ, Borja et al. 2017 ESC Guidelines for the management of acute 
+myocardial infarction in patients presenting with ST-segment elevation: The Task 
+Force for the management of acute myocardial infarction in patients p resenting 
+with ST-segment elevation of the European Society of Cardiology (ESC). 
+European heart journal , v. 39, n. 2, p. 119-177, 2018.  
+5. REIMER, KEITH A. et al. The wavefront phenomenon of ischemic cell death. 1. 
+Myocardial infarct size vs duration of coronary occlusion in dogs. Circulation , v. 
+56, n. 5, p. 786-794, 1977.  
+6. WANG, Gaopin et al. Electrocardiogram: his bundle potentials can be recorde d 
+noninvasively beat by beat on surface electrocardiogram. BMC Cardiovascular 
+Disorders , v. 17, p. 1-8, 2017.  
+7. DOTTA, Gabriel et al. Regional QT interval dispersion as an early predictor of 
+reperfusion in patients with acute myocardial infarction after fibri nolytic 
+therapy. Arquivos Brasileiros de Cardiologia , v. 112, p. 20-29, 2018.  
+8. MOORE, Keith L.; DALLEY, Arthur F.; AGUR, Anne M.R. Anatomia orientada para 
+a clínica. 7ª ed. Rio de Janeiro: Guanabara Koogan, 2014.  
+9. SMITH, Vinayak et al. A systematic review of cardiac time intervals utilising non-
+invasive fetal electrocardiogram in normal fetuses. BMC pregnancy and 
+childbirth , v. 18, p. 1-15, 2018.  
+10. WU, Lin e outros. Diagnóstico baseado em regressão LASSO de infarto agudo do 
+miocárdio de elevação do segmento ST (STEM) no eletrocardiograma (ECG).  
+Jornal de Medicina Clínica , v. 11, n. 18, p. 5408, 2022.  
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ 11. DE ALENCAR NETO, José Nunes e outros. Revisão sistemática e meta-análise da 
+precisão do teste diagnóstico da elevação do segmento ST para oclusão 
+coronária aguda. Revista Internacional de Cardiologia , p. 131889, 2024.  
+12. ABUD, Isabela; ZIOTTI, Sara; MORAES, Ricardo. European Society of Cardiology: 
+Highlights do ESC 2022 . 
+13. BETT, Murilo Santos et al. Infarto agudo do miocárdio: Do diagnóstico à 
+intervenção. Research, Society and Development , v. 11, n. 3, p. e23811326447-
+e23811326447, 2022.  
+14. VASCONCELOS, José Lucas Moura et al. Troponina no Infarto Agudo do 
+Miocárdio sem Supradesnivelamento do Segmento ST: Uma Revisão Sistemática. 
+Brazilian Journal of Implantology and Health Sciences , v. 6, n. 1, p. 1622-1630, 
+2024.  
+15. SILVA, Caroline Inacio da et al. Análise da qualidade do sono em indi víduos com 
+síndrome coronariana aguda. Texto & Contexto-Enfermagem , v. 32, p. 
+e20220338, 2023.  
+16. CEDRO, Alexandre Vianna et al. Associação entre Escores de risco clínico (HEART, 
+GRACE e TIMI) e complexidade angiográfica na síndrome coronária aguda sem 
+elevação do segmento ST. Arquivos Brasileiros de Cardiologia , v. 117, p. 281-
+287, 2021.  
+17. PÉREZ ASSEF, Héctor; FERRER ARROCHA, Marlene; AGUIAR PÉREZ, Jorge Enrique. 
+Infarto agudo de miocardio tipo 2: desafíos en la práctica clínica. Revista Finlay , 
+v. 12, n. 4, p. 461-466, 2022.  
+18. MARTINS, Cyntia Maria de Holanda et al. Alterações Hematológicas durante um 
+Período de Sete Dias de Internação em Pacientes com Infarto Agudo do 
+Miocárdio. Arquivos Brasileiros de Cardiologia , v. 120, n. 11, p. e20230045, 
+2023.  
+19. DOS SANTOS FLORA, Giovanna; DA SILVA, Juliana Santiago. Identificação dos 
+fatores de risco relacionados ao infarto agudo do miocárdio na preven ção 
+secundária. Anais do Seminário Científico do UNIFACIG , n. 7, 2021.  
+20. DA SILVA, Gabriele Maria Henrique; CARVALHO, Fabiano Lacerda; DE ANDRADE, 
+Leonardo Guimarães. Atuação do farmacêutico no diagnóstico laboratorial e 
+tratamento farmacológico do infarto agudo do miocárdio. Revista Ibero-
+Americana de Humanidades, Ciências e Educação , v. 10, n. 5, p. 182-201, 2024.  
+21. CHEN, YuJiao et al. O Pré-Condicionamento com Dexmedetomidina Reduz a 
+Lesão de Isquemia-Reperfusão do Miocárdio em Ratos, Inibindo a Via PERK. 
+Arquivos Brasileiros de Cardiologia , v. 117, n. 6, p. 1134-1144, 2021.  
+22. XAVIER, Lucas Rodrigues et al. INFARTO AGUDO DO MIOCÁRDIO: DIAGNÓSTICO, 
+TRATAMENTO E FISIOPATOLOGIA. RICS-Revista Interdisciplinar das Ciências da 
+Saúde , v. 1, n. 2, p. 1-13, 2024.  
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ 23. NETO, Aldo Virgínio Barbosa et al. VANTAGENS E DESVANTAGENS DO USO DE 
+OXIGENOTERAPIA EM PACIENTES COM INFARTO AGUDO DO MIOCÁRDIO. 
+Revista da Faculdade de Ciências Médicas da Paraíba , v. 1, n. 3, 2023.  
+24. HERNÁNDEZ, Sonia Serrano et al. Caso práctico infarto agudo de miocardio. 
+Revista Sanitaria de Investigación , v. 2, n. 7, p. 30, 2021.  
+25. GALLARDO, José Manuel Valencia; VIOLÁN, Jordi Solé; DE CASTRO, Felipe 
+Rodríguez. Oxigenoterapia. Consideraciones sobre su uso en el enfermo agudo. 
+Archivos de Bronconeumología , v. 58, n. 1, p. 102, 2021.  
+26. DOS SANTOS, Samuel Lopes et al. Contribuições da enfermagem ao paciente 
+vítima de infarto agudo do miocárdio. Revista de Casos e Consultoria , v. 12, n. 
+1, p. e26887-e26887, 2021.  
+27. DA SILVA, Gabriele Maria Henrique; CARVALHO, Fabiano Lacerda; DE ANDRADE, 
+Leonardo Guimarães. Atuação do farmacêutico no diagnóstico laboratorial e 
+tratamento farmacológico do infarto agudo do miocárdio. Revista Ibero-
+Americana de Humanidades, Ciências e Educação , v. 10, n. 5, p. 182-201, 2024.  
+28. GÓES, Leonardo Garcia et al. Infarto Agudo do Miocárdio: Análise do 
+Conhecimento de Graduandos de Medicina: Conhecimento sobre Infarto Agudo 
+do Miocárdio. JBMEDE-Jornal Brasileiro de Medicina de Emergência , v. 1, n. 2, 
+p. e21013-e21013, 2021.  
+29. MARKMAN FILHO, Brivaldo; LIMA, Sandro Gonçalves de. Reperfusão coronariana 
+no infarto agudo do miocárdio: tentar o ótimo. executar o possível. Arquivos 
+Brasileiros de Cardiologia , v. 117, p. 130-131, 2021.  
+30. MONTALVÃO, Antoane Marinho; OLIVEIRA, Carla Resende Vaz; REIS, Bruno 
+Cezario Costa. O uso correto de antiagregantes plaquetários após intervenção 
+coronária percutânea: uma revisão comparativa. Revista Eletrônica Acervo 
+Saúde , v. 15, n. 11, p. e11051-e11051, 2022.  
+31. VIEIRA, Ianne Stéfani Angelim et al. COMPLICAÇÕES APÓS INTERVENÇÃO 
+CORONARIANA PERCUTÂNEA: UMA REVISÃO INTEGRATIVA. LUMEN ET VIRTUS , 
+v. 15, n. 41, p. 5063-5072, 2024.  
+32. LUCCA, Marcelo B. et al. Prevenção farmacológica secundária da doença arterial 
+coronariana em pacientes submetidos ao manejo clínico, intervenção coronária  
+percutânea ou cirurgia de revascularização miocárdica. Arquivos Brasileiros de 
+Cardiologia , v. 120, p. e20220403, 2023.  
+33. GIOPPATTO, Silvio et al. O Impacto Clínico e Econômico do Atraso na Terapia de 
+Reperfusão: Evidências do Mundo Real. Arquivos Brasileiros de Cardiologia , v. 
+121, p. e20230650, 2024.  
+34. CÂMARA, Priscila Fernandes Meireles et al. Clinical outcomes of fibrinolyt ic 
+therapy for prehospital treatment of acute myocardial infarction. Biosci J , v. 37, 
+p. e37071, 2021.  
+35. DA SILVA BILHERI, Luan; DE ALMEIDA, Diandra Martelo; MILAN, Jucimar. Uso do 
+trombolítico tenecteplase em pacientes com infarto agudo do miocárdio: 
+Infarto: diagnóstico e intervenções atualizadas contra uma das condições mais mortais do 
+mundo  
+Bittencourt et al.  
+Brazilian Journal of Implantology and Health Sciences 
+Volume 7, Issue 3 (2025), Page 2203-2220.  
+ Revisão integrativa. Santé-Cadernos de Ciências da Saúde , v. 1, n. 2, p. 20-34, 
+2022.  
+ 
+ 
+ 

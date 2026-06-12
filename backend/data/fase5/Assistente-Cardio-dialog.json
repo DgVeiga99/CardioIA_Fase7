@@ -1,0 +1,1245 @@
+{
+  "intents": [
+    {
+      "intent": "exames_consulta",
+      "examples": [
+        {
+          "text": "Me passaram um exame cardíaco"
+        },
+        {
+          "text": "O cardiologista passou um exame para fazer"
+        },
+        {
+          "text": "O doutor solicitou um exame pra mim"
+        },
+        {
+          "text": "Preciso fazer um exame do coração urgente"
+        },
+        {
+          "text": "Preciso fazer um exame que o cardiologista passou"
+        },
+        {
+          "text": "Tenho que fazer um exame do coração"
+        },
+        {
+          "text": "Vou fazer um exame cardíaco essa semana"
+        },
+        {
+          "text": "Vou fazer um exame para o coração"
+        },
+        {
+          "text": "Vou fazer um exame que pediram na consulta"
+        },
+        {
+          "text": "Vou realizar um exame cardíaco"
+        }
+      ],
+      "description": "Direcionamento para qual tipo de exame irá realizar"
+    },
+    {
+      "intent": "preparo",
+      "examples": [
+        {
+          "text": "Como devo me preparar para o exame?"
+        },
+        {
+          "text": "O que eu preciso levar no dia do exame?"
+        },
+        {
+          "text": "Posso comer antes do exame do coração?"
+        },
+        {
+          "text": "Posso fazer atividade física antes do exame?"
+        },
+        {
+          "text": "Posso tomar café antes do exame?"
+        },
+        {
+          "text": "Preciso fazer algum preparo antes do exame?"
+        },
+        {
+          "text": "Preciso parar algum remédio antes do exame?"
+        },
+        {
+          "text": "Tem alguma recomendação antes de fazer o exame?"
+        },
+        {
+          "text": "Tem alguma restrição antes do exame?"
+        },
+        {
+          "text": "Tem que fazer jejum para esse exame?"
+        }
+      ],
+      "description": "Preparação para exames"
+    },
+    {
+      "intent": "respostas_afirmativas",
+      "examples": [
+        {
+          "text": "OK"
+        },
+        {
+          "text": "Pode continuar"
+        },
+        {
+          "text": "Pode prosseguir"
+        },
+        {
+          "text": "Quero sim"
+        },
+        {
+          "text": "Sim"
+        },
+        {
+          "text": "Sim, pode ser"
+        }
+      ],
+      "description": "Frases frequentes de afirmação"
+    },
+    {
+      "intent": "respostas_negativas",
+      "examples": [
+        {
+          "text": "Agora não"
+        },
+        {
+          "text": "Não"
+        },
+        {
+          "text": "Não é necessário"
+        },
+        {
+          "text": "Não, obrigado"
+        },
+        {
+          "text": "Não precisa"
+        },
+        {
+          "text": "Prefiro não"
+        }
+      ],
+      "description": "Frases frequentes de negação"
+    },
+    {
+      "intent": "sintomas_graves",
+      "examples": [
+        {
+          "text": "Acabei de quase desmaiar do nada"
+        },
+        {
+          "text": "A dor no peito está indo para o braço esquerdo"
+        },
+        {
+          "text": "Estou com dor forte no peito e enjoo"
+        },
+        {
+          "text": "Estou com dor no peito e me sentindo muito fraco"
+        },
+        {
+          "text": "Estou com dor no peito e sensação de morte iminente"
+        },
+        {
+          "text": "Estou com falta de ar e dor no peito ao mesmo tempo"
+        },
+        {
+          "text": "Estou com falta de ar intensa e não consigo respirar direito"
+        },
+        {
+          "text": "Estou com uma dor muito forte no peito agora"
+        },
+        {
+          "text": "Estou suando frio e com dor no peito"
+        },
+        {
+          "text": "Estou tonto e parece que vou desmaiar"
+        },
+        {
+          "text": "Meu coração está disparado e estou passando mal"
+        },
+        {
+          "text": "Meu peito está apertando muito e a dor não passa"
+        },
+        {
+          "text": "Minha respiração está muito difícil agora"
+        },
+        {
+          "text": "Senti uma dor súbita muito forte no peito agora"
+        },
+        {
+          "text": "Sinto uma pressão muito forte no peito e estou preocupado"
+        }
+      ],
+      "description": "Sintomas cardiológicos graves"
+    },
+    {
+      "intent": "sintomas_leves",
+      "examples": [
+        {
+          "text": "Ando me sentindo mais fraco do que o normal"
+        },
+        {
+          "text": "Às vezes sinto o coração meio acelerado sem motivo"
+        },
+        {
+          "text": "Às vezes sinto uma pressão leve no peito"
+        },
+        {
+          "text": "Estou cansando mais fácil ao subir escadas"
+        },
+        {
+          "text": "estou me cansando quando subo a escada"
+        },
+        {
+          "text": "Estou sentindo um cansaço fora do normal ultimamente"
+        },
+        {
+          "text": "Fico meio ofegante com atividades simples"
+        },
+        {
+          "text": "Fico um pouco tonto quando levanto rápido"
+        },
+        {
+          "text": "Meu coração às vezes parece bater mais rápido do que o normal"
+        },
+        {
+          "text": "Meu peito fica meio estranho, mas não chega a doer muito"
+        },
+        {
+          "text": "Sinto um aperto leve no peito em alguns momentos"
+        },
+        {
+          "text": "Sinto um leve desconforto no peito, mas não é dor forte"
+        },
+        {
+          "text": "Tenho percebido meu coração batendo irregularmente às vezes"
+        },
+        {
+          "text": "Tenho sentido uma leve falta de ar quando faço esforço"
+        },
+        {
+          "text": "Tenho sentido umas palpitações de vez em quando"
+        },
+        {
+          "text": "Tenho uma sensação estranha no peito, difícil de explicar"
+        },
+        {
+          "text": "to cansado"
+        }
+      ],
+      "description": "Sintomas cardiológicos leves"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "exames",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Cintilografia Miocárdica",
+          "synonyms": [
+            "Exame com contraste"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Eletrocardiograma",
+          "synonyms": [
+            "ECG"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Holter 24Hrs",
+          "synonyms": [
+            "Holter"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mapa",
+          "synonyms": [
+            "Exame de pressão"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ressonância Magnética Cardíaca",
+          "synonyms": [
+            "Ressonância do coração"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Teste Cardiopulmonar",
+          "synonyms": [
+            "Teste com máscara"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Teste Ergométrico",
+          "synonyms": [
+            "Teste da esteira"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tomografia das Coronárias",
+          "synonyms": [
+            "Tomografia do coração"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, sou a CardioIA, Assistente Virtual especializada em cardiologia.\n\nEstou aqui para te auxiliar com informações sobre sintomas, exames cardiológicos, situações de emergência e orientações para consulta."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_4_1774486815385",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Se for Ergométrico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O teste ergométrico avalia o funcionamento do coração durante esforço físico, geralmente caminhando em uma esteira.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Teste Ergométrico)",
+      "dialog_node": "node_10_1774530244089",
+      "previous_sibling": "node_1_1774530242103"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Cintilografia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para a cintilografia, geralmente é necessário jejum de 4 a 6 horas.\nEvite consumir café, chá, chocolate e bebidas com cafeína nas 24 horas anteriores.\nAlguns medicamentos podem precisar ser suspensos, conforme orientação médica.\nVá com roupas confortáveis, pois pode haver etapa de esforço."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Cintilografia Miocárdica)",
+      "dialog_node": "node_10_1774536364256",
+      "previous_sibling": "node_9_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_6_1774530238466",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_10_1774537475053"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_7_1774530239527",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_11_1774537575729"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Cardiopulmonar",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Esse exame avalia o desempenho do coração e dos pulmões durante o exercício, medindo também a respiração e o consumo de oxigênio.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Teste Cardiopulmonar)",
+      "dialog_node": "node_1_1774530242103",
+      "previous_sibling": "node_7_1774530239527"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "parent": "node_2_1774530188580",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_1_1774535290658"
+    },
+    {
+      "type": "standard",
+      "title": "Preparo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual exame você ira realizar?"
+              },
+              {
+                "text": "Qual foi o exame solicitado?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#preparo",
+      "dialog_node": "node_1_1774536364253",
+      "previous_sibling": "node_8_1774489341002"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_8_1774530237022",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_1_1774537243083",
+      "previous_sibling": "node_9_1774537437310"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_1_1774530242103",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_12_1774537609889"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_10_1774530244089",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_13_1774537719703"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_4_1774530434726",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_14_1774537749756"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_2_1774530448001",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_15_1774537791375"
+    },
+    {
+      "type": "standard",
+      "title": "Erro de entendimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não temos este tipo de exame."
+              },
+              {
+                "text": "Acho que você digitou errado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1774536364253"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_17_1774538771600",
+      "previous_sibling": "node_10_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "Se for ECG",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O eletrocardiograma é um exame rápido que registra a atividade elétrica do coração. Ele ajuda a identificar alterações no ritmo cardíaco e possíveis problemas como arritmias.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:Eletrocardiograma",
+      "dialog_node": "node_2_1774530188580"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Cintilografia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A cintilografia avalia a circulação do sangue no coração, ajudando a identificar áreas com menor fluxo sanguíneo.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Cintilografia Miocárdica)",
+      "dialog_node": "node_2_1774530448001",
+      "previous_sibling": "node_4_1774530434726"
+    },
+    {
+      "type": "standard",
+      "title": "Se for ECG",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O eletrocardiograma não exige preparo específico.\nVocê pode se alimentar normalmente e tomar seus medicamentos habituais.\nRecomenda-se apenas evitar o uso de cremes ou óleos na região do peito no dia do exame."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:Eletrocardiograma",
+      "dialog_node": "node_2_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_6_1774530238466",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_3_1774537247512",
+      "previous_sibling": "node_10_1774537475053"
+    },
+    {
+      "type": "standard",
+      "title": "Encerramento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Posso te ajudar com mais alguma dúvida ?"
+              },
+              {
+                "text": "Deseja tirar mais alguma dúvida antes de finalizar o atendimento?"
+              },
+              {
+                "text": "Fico à disposição caso queira conversar mais sobre sua saúde. Deseja continuar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1774486815385",
+      "previous_sibling": "node_7_1774486242896"
+    },
+    {
+      "type": "standard",
+      "title": "Finalização",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se surgir qualquer outra dúvida sobre sintomas, exames ou orientação cardiológica, estarei à disposição. Cuide-se!"
+              },
+              {
+                "text": "Sempre que precisar de mais orientações, pode voltar a conversar comigo. Tenha um ótimo dia e cuide da sua saúde!"
+              },
+              {
+                "text": "Lembre-se: em caso de novos sintomas ou dúvidas, procure orientação médica ou retorne para novas informações. Atendimento finalizado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1774486815385",
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_4_1774487724876"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Tomografia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A tomografia das coronárias é um exame de imagem que permite visualizar as artérias do coração e identificar possíveis obstruções.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Tomografia das Coronárias)",
+      "dialog_node": "node_4_1774530434726",
+      "previous_sibling": "node_10_1774530244089"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Holter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para o Holter, não é necessário jejum.\nVocê deve manter sua rotina normal durante o exame.\nEvite molhar o aparelho (não tomar banho durante o uso).\nUse roupas leves e informe ao médico os sintomas que sentir ao longo do dia."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Holter 24Hrs)",
+      "dialog_node": "node_4_1774536364256",
+      "previous_sibling": "node_2_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_7_1774530239527",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_4_1774537323734",
+      "previous_sibling": "node_11_1774537575729"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Mapa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O MAPA também não exige preparo especial.\nÉ importante seguir sua rotina normalmente.\nEvite movimentar o braço durante as medições.\nNão tomar banho enquanto estiver com o aparelho."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:Mapa",
+      "dialog_node": "node_5_1774536364256",
+      "previous_sibling": "node_4_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "parent": "node_2_1774530188580",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_5_1774536594503",
+      "previous_sibling": "node_1_1774535290658"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_1_1774530242103",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_5_1774537333598",
+      "previous_sibling": "node_12_1774537609889"
+    },
+    {
+      "type": "standard",
+      "title": "Retorno",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1774486815385",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1774488134554"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1774487899688",
+      "previous_sibling": "node_4_1774487724876"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Mapa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O MAPA é um exame que mede sua pressão arterial ao longo de 24 horas, ajudando a identificar variações durante o dia e a noite.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:Mapa",
+      "dialog_node": "node_6_1774530238466",
+      "previous_sibling": "node_8_1774530237022"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Ressonância",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pode ser necessário jejum de 4 a 6 horas, dependendo do protocolo.\nRetire todos os objetos metálicos (brincos, relógios, etc.).\nInforme se possui implantes metálicos, marcapasso ou próteses.\nEm alguns casos, será utilizado contraste."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Ressonância Magnética Cardíaca)",
+      "dialog_node": "node_6_1774536364256",
+      "previous_sibling": "node_5_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_4_1774530434726",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_6_1774537352633",
+      "previous_sibling": "node_14_1774537749756"
+    },
+    {
+      "type": "standard",
+      "title": "Erro de entendimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não temos este tipo de exame."
+              },
+              {
+                "text": "Acho que você digitou errado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1774489341002"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1774538547812",
+      "previous_sibling": "node_2_1774530448001"
+    },
+    {
+      "type": "standard",
+      "title": "Sintoma leve",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "É importante observar a frequência, duração e intensidade desses sintomas. Caso persistam, procure avaliação com um profissional de saúde."
+              },
+              {
+                "text": "Essas alterações podem ocorrer por esforço físico, estresse ou outras condições. Caso não seja esta a devida situação sugiro a passagem com um profissional da saúde"
+              },
+              {
+                "text": "Observe quando os sintomas aparecem, se estão associados a alguma atividade específica e se tendem a melhorar com repouso. Caso se tornem frequentes ou persistentes, é importante buscar avaliação com um cardiologista."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#sintomas_leves",
+      "dialog_node": "node_7_1774486242896",
+      "previous_sibling": "node_1_1774536364253"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Ressonância",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A ressonância cardíaca é um exame detalhado que gera imagens do coração, ajudando a identificar alterações na estrutura e nos tecidos.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Ressonância Magnética Cardíaca)",
+      "dialog_node": "node_7_1774530239527",
+      "previous_sibling": "node_6_1774530238466"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Cardiopulmonar",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Vá com roupas confortáveis e tênis.\nEvite refeições pesadas nas 2 a 3 horas antes do exame.\nNão consumir bebidas estimulantes (café, energéticos).\nInforme os medicamentos em uso antes do exame."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Teste Cardiopulmonar)",
+      "dialog_node": "node_7_1774536364256",
+      "previous_sibling": "node_6_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_10_1774530244089",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_7_1774537385800",
+      "previous_sibling": "node_13_1774537719703"
+    },
+    {
+      "type": "standard",
+      "title": "Exames",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Qual exame você ira realizar?"
+              },
+              {
+                "text": "Qual foi o exame solicitado?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#exames_consulta",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1774489341002",
+      "previous_sibling": "node_9_1774488134554"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Holter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Holter é um exame em que você usa um aparelho por 24 horas para monitorar o funcionamento do coração ao longo do dia, inclusive durante suas atividades normais.\n"
+              },
+              {
+                "text": "Gostaria de saber os preparos antes do exame?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1774489341002",
+      "conditions": "@exames:(Holter 24Hrs)",
+      "dialog_node": "node_8_1774530237022",
+      "previous_sibling": "node_2_1774530188580"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Ergométrico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Compareça com roupas leves e calçado adequado para exercício.\nEvite comer em excesso antes do exame (refeição leve).\nNão consumir cafeína nas horas anteriores.\nAlguns medicamentos podem ser suspensos sob orientação médica."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Teste Ergométrico)",
+      "dialog_node": "node_8_1774536364256",
+      "previous_sibling": "node_7_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "negação",
+      "output": {},
+      "parent": "node_2_1774530448001",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "#respostas_negativas",
+      "dialog_node": "node_8_1774537387995",
+      "previous_sibling": "node_15_1774537791375"
+    },
+    {
+      "type": "standard",
+      "title": "Emergência",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🚨 ATENÇÃO: os sintomas que você descreveu podem indicar uma situação de emergência.\n\nProcure atendimento médico imediatamente ou vá ao pronto-socorro mais próximo."
+              },
+              {
+                "text": "🚨 ATENÇÃO: dor no peito, falta de ar ou desmaio podem estar associados a condições graves.\n\nProcure um serviço de emergência agora mesmo."
+              },
+              {
+                "text": "🚨 ATENÇÃO: Recomendamos que você busque ajuda médica imediata ou acione um serviço de emergência. Se possível, não fique sozinho e peça ajuda a alguém próximo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#sintomas_graves",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1774488134554",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Se for Tomografia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Geralmente é necessário jejum de 4 horas.\nEvitar cafeína antes do exame.\nPode ser necessário uso de contraste, então informe alergias.\nEm alguns casos, será solicitado controle da frequência cardíaca antes do exame."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1774536364253",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774486815385"
+      },
+      "conditions": "@exames:(Tomografia das Coronárias)",
+      "dialog_node": "node_9_1774536364256",
+      "previous_sibling": "node_8_1774536364256"
+    },
+    {
+      "type": "standard",
+      "title": "afirmação",
+      "output": {},
+      "parent": "node_8_1774530237022",
+      "context": {
+        "exame_preparo": "@exames"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1774536364256"
+      },
+      "conditions": "#respostas_afirmativas",
+      "dialog_node": "node_9_1774537437310"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores",
+      "use_connect_to_support_prompt": "Connect to support",
+      "single_answer_clarification_prompt": "Something else"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "language": "pt-br",
+  "description": "",
+  "name": "Assistente Cardio-dialog"
+}

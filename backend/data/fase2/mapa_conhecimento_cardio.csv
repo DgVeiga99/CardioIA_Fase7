@@ -1,0 +1,60 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito em aperto,irradiação para braço esquerdo,Infarto Agudo do Miocárdio
+dor precordial intensa,suor frio,Infarto Agudo do Miocárdio
+dor no peito prolongada,náuseas e vômitos,Infarto Agudo do Miocárdio
+dor no peito,sensação de morte iminente,Infarto Agudo do Miocárdio
+aperto torácico,dor irradiando para mandíbula,Infarto Agudo do Miocárdio
+dor retroesternal,piora com esforço físico,Infarto Agudo do Miocárdio
+dor torácica,alívio parcial em repouso,Infarto Agudo do Miocárdio
+falta de ar súbita,dor torácica intensa,Infarto Agudo do Miocárdio
+fadiga súbita,dor no peito em aperto,Infarto Agudo do Miocárdio
+dor torácica com irradiação,fraqueza e sudorese,Infarto Agudo do Miocárdio
+dor no peito leve,melhora ao repousar,Angina Estável
+dor ao esforço,alívio com repouso,Angina Estável
+dor torácica,duração menor que 10 minutos,Angina Estável
+pressão no peito,esforço físico intenso,Angina Estável
+desconforto no peito,atividade física provoca dor,Angina Estável
+dor torácica progressiva,ocorre em repouso,Angina Instável
+dor no peito,piora nas últimas 24 horas,Angina Instável
+dor precordial em repouso,náuseas e ansiedade,Angina Instável
+aperto torácico súbito,sudorese fria,Angina Instável
+desconforto torácico,ocorre sem esforço,Angina Instável
+falta de ar ao deitar,inchaço nos tornozelos,Insuficiência Cardíaca
+cansaço progressivo,ortopneia,Insuficiência Cardíaca
+dispneia paroxística noturna,ganho de peso súbito,Insuficiência Cardíaca
+fadiga ao pequeno esforço,tosse noturna,Insuficiência Cardíaca
+edema em membros inferiores,dificuldade para respirar,Insuficiência Cardíaca
+palpitações,tontura,Arritmia Cardíaca
+batimentos irregulares,sensação de desmaio,Arritmia Cardíaca
+pulso irregular,fadiga inexplicável,Arritmia Cardíaca
+palpitações rápidas,dor torácica leve,Arritmia Cardíaca
+tontura súbita,desmaio (síncope),Arritmia Cardíaca
+febre recente,dor torácica em pontada,Miocardite
+dor torácica,cansaço persistente,Miocardite
+palpitações,febre ou infecção viral prévia,Miocardite
+dor no peito,melhora ao inclinar o tronco,Pericardite
+dor torácica,piora ao deitar,Pericardite
+febre baixa,dor precordial aguda,Pericardite
+dor ao respirar fundo,atrito pericárdico audível,Pericardite
+cefaleia,pressão arterial elevada,Hipertensão Arterial Sistêmica
+tontura,zumbido nos ouvidos,Hipertensão Arterial Sistêmica
+visão turva,dor occipital,Hipertensão Arterial Sistêmica
+sangramento nasal,dor de cabeça matinal,Hipertensão Arterial Sistêmica
+palpitações,dor de cabeça intensa,Hipertensão Arterial Sistêmica
+dor torácica,falta de ar ao esforço,Doença Arterial Coronariana
+dor no peito,irradiação para pescoço,Doença Arterial Coronariana
+fadiga ao caminhar,pressão torácica,Doença Arterial Coronariana
+dor precordial,ocorre após estresse,Doença Arterial Coronariana
+dor torácica recorrente,esforço moderado,Doença Arterial Coronariana
+dor torácica ao esforço,sopro sistólico audível,Estenose Aórtica
+desmaios durante esforço,dor no peito,Estenose Aórtica
+fadiga aos esforços,falta de ar progressiva,Estenose Aórtica
+palpitações,cansaço fácil,Insuficiência Mitral
+falta de ar noturna,tosse com expectoração rosada,Insuficiência Mitral
+sopro holossistólico,dispneia ao esforço,Insuficiência Mitral
+palpitações,dor torácica leve,Insuficiência Mitral
+dor no peito,edema em pernas,Insuficiência Mitral
+dispneia,cansaço ao caminhar,Doença Arterial Coronariana
+ortopneia,edema nos pés,Insuficiência Cardíaca
+dispneia aos esforços,fadiga constante,Insuficiência Cardíaca
+dor torácica intensa,sudorese e palidez,Infarto Agudo do Miocárdio

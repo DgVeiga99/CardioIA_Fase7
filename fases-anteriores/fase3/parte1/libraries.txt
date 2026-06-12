@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+DHT22
+HC-SR04
+PIR
+DHT sensor library for ESPx
+DHT sensor library

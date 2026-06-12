@@ -1,0 +1,368 @@
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+806  
+ 
+ 
+doi.org/ 10.51891/rease.v10i1.12966  
+ 
+ 
+PERFIL DAS DOENÇAS CARDIOVASCULARES EM UM AMBULATÓRIO DE 
+CARDIOLOGIA NO OESTE DO PARANÁ  
+ 
+ 
+PROFILE OF CARDIOVASCULAR DISEASES IN A CARDIOLOGY AMBULATORY 
+CARE IN THE WEST OF PARANÁ  
+ 
+ 
+Giulia Pietreski Padilha1 
+Rui Manuel de Sousa Sequeira Antunes de Almeida2 
+Leonardo Burg Bortoluzzi3 
+Eduarda Elsenbach Scherer4 
+Maria Eduarda Barbosa Nogueira5 
+Nathaly Trento Machado6 
+ 
+ 
+ 
+RESUMO:  As doenças do aparelho circulatório são as que possuem maior morbi -
+mortalidade  no Brasil e no mundo . A Sociedade Brasileira de Cardiologia (SBC), apontou 
+que cerca de 400 mil brasileiros morrem por ano devido a doenças do coração, 
+correspondendo a 30% de todas as mortes do país . Esse estudo é uma pesquisa descritiva, 
+com abordagem quantitativa documental, com coleta de dados em prontuários manuais e 
+contidos em sistema operacional Tasy,  de 290 pacientes,  no período de janeir o de 2021 a 
+dezembro de 2021, de um  ambulatório cardiológico no município de Cascavel, Paraná. A 
+pesquisa teve  como objetivo primário conhecer as doenças mais prevalentes no ambulatório 
+de cardiologia de Cascavel, sendo observado que a Hipertensão Arterial Sistêmica  foi a 
+doença mais frequentemente tratada, presente em 255 dos pacientes (87,93%), e a 
+comorbidade mais apresentada foi a dislipidemia, em 100 pacientes (34,48%) . Este estudo 
+também objetivou conhecer o perfil epidemiológico da população e as formas de terapia mais 
+utilizadas pelos pacientes do serviço. D entre os pacientes inclusos na pesquisa, 56% eram 
+mulheres. As medicações mais utilizadas foram as estatinas, presente no esquema  
+terapêutico  de 57,93% dos pacientes e bloqueadores dos receptores de angiotensina , utilizados 
+por 46,90%  da população . 
+Palavras -chave :  Doenças cardiovasculares. Epidemiologia. Prevalência.  
+ 
+1 Acadêmica do Curso de Medicina da Fundação Assis Gurgacz.  
+2 Médico. Cirurgião Cardiovascular. Doutor em Cirurgia Cardiovascular. Coordenador do C urso de Medicina 
+do Centro Universitário FAG.   
+3 Acadêmica do Curso de Medicina da UNINOVE, Bauru.  
+4 Acadêmica do Curso de Medicina da Fundação Assis Gurgacz.  
+5 Acadêmica do Curso de Medicina da Fundação Assis Gurgacz.  
+6 Acadêmica do Curso de Medicina da Fundação Assis Gurgacz.  
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+807 ABSTRACT:  Diseases of the circulatory system have  the highest morbi -mortality rate in 
+Brazil and in the world. The Brazilian Society of Cardiology (SBC), pointed out that about 
+400,000 Brazilians die each year due to heart disease, corresponding to 30% of all deaths in 
+the country. This study is a descriptive research, with a docume ntary quantitative approach, 
+with data collected in manual medical records and contained in Tasy operating system,  from 
+290 pacients,  from January  2021 to December 2021, from a  cardiology ambulatory care in the 
+city of Cascavel, Paraná. The research had as its primary objective to know the most 
+prevalent diseases in the cardiology ambulatory care  of Cascavel, it was observed that 
+systemic arterial hypertension  was the most frequently treated disease, present in 255 of the 
+patients (87.93%), and the most comm on comorbidity was dyslipidemia , in 100 patients 
+(34.48%). This study also aimed to know the epidemiological profile of the population and 
+the forms of therapy most used by the se rvice's patients. Among the patients included in 
+the survey, 56% were women. The most used medications were statins, present in the 
+therapeutic scheme of 57.93% of the patients and  angiotensin receptor blockers, utilized by 
+46.90% of the population . 
+Keywords: Cardiovascular diseases. Epidemiology. Prevalence.  
+1. INTRODUÇÃO  
+Discutir estratégias de prevenção e controle de riscos para doenças cardiovasculares 
+(DCV) é fundamental ao depararmos com o importante impacto em morbi mortalidade e 
+econômico  que decorre dessas doenças. As DCV  são, hoje, as que possuem maior 
+mortalidade no Brasil e no mundo e estão relacionadas a fatores  de risco intrínsecos como 
+Hipertensão Arterial Sistêmica (HAS) e Diabetes Melitus (DM) e extrínsecos como  
+hábitos de vida , que incluem alimentação inadequada, sedentarismo e tabagismo .1,3,9 
+Em 2019, a Organização Mundial da Saúde revelou que nos ú ltimos vinte anos, as 
+DCV mantiveram -se no topo da lista de doenças com maiores mortalidades  no mundo, 16% 
+do total de óbitos  por todas as causas .2 Em 2021, a Sociedade Brasileira de Cardiologia (SBC), 
+apontou que cerca de 400 mil brasileiros morrem por ano devido a doenças do coração, 
+correspondendo a 30% de todas as mortes, tornando as DCV as doenças que mais matam a 
+população brasileira. 3 
+Conhecer as doenças que mais prevalecem na população de Cascavel , permite a 
+tomada de decisões corretas  na organização de políticas de saúde e intervenções eficazes 
+quanto a prevenção, controle de fatores de risco, acompanhamento das doenças e reabilitação 
+dos pacientes da região.4 
+O objetivo principal desse trabalho é conhecer a incidência de doenças cardiológicas 
+atendidas em um ambulatório de Cascavel durante o ano de 2021, buscando conhecer  as 
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+808 doenças mais prevalentes na população . O objetivo secundário foi conhecer o perfil 
+epidemiológico dos pacientes e as formas  de tratamento mais utilizadas por essa população.  
+2. MATERIAL E MÉTODO  
+Realizou -se uma pesquisa descritiva, com abordagem quantitativa documental, com 
+coleta de dados em prontuários manuais e os contidos em sistema operacional Tasy, no 
+período de janeiro de 2021 a dezembro de 2021, em um ambulatório cardiológico no município 
+de Cascavel, Paran á. Foram analisados 1002  prontuários do ambulatório e inclusos na 
+pesquisa 290 desses . Os critérios de inclusão foram  pacientes  acima de 18 ano s, de ambos os 
+sexos . Os critérios de exclusão foram  pacientes menores de 18 anos, prontuários preenchidos 
+incorretamente ou submetidos a angioplastia ou cirurgia.  
+Os pesquisadores solicitaram  dispensa de TCLE em razão do grande número de 
+prontuários coletados . No mes ou iniciais que possibilitassem  identificação não foram 
+coletados , somente  dados médicos relevantes.  A pesquisa respeitou os aspectos éticos que 
+envolvem os estudos com seres humanos, aprovada sob parecer nº CAAE: 
+59242822.0.0000.5219.  
+ Foram analisados sexo, idade, presença de comorbidades, doença pelo qual está 
+sendo atendido, frequência das avaliações e medicações em uso dos pacientes do 
+ambulatório.  
+Por se tratar de uma pesquisa que utilizou  prontuário médico, os riscos envolvidos 
+foram  muito baixos, restringindo -se a uma possível exposição dos dados dos pacientes. Para 
+a minimização desses r iscos, os pesquisadores mantiveram  exclusividade das informações 
+obtidas nos prontuários, não ocorrendo cadastro de nomes junto aos outros dados. Com 
+relação aos benefícios, esperava -se que com essa pesquisa fosse possível identificar a 
+prevalência  de doenças cardiovasculares entre a população atendida em um  ambulató rio de 
+Cardiologia de Cascavel , elencar as mais presentes e identificar as formas de tratamento 
+mais utilizadas.  
+A pesquisa foi realizada  no Ambulatório do Hospital S ão Lucas, situado  no 
+município de Cascavel, na região oeste do estado do Paraná. O ambulatório é destinado a 
+atendimentos cardiológicos de alta complexidade pelo Sistema Único de Saúde (SUS).  
+ 
+ 
+ 
+ 
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+809 3. RESULTADOS  
+Foram analisados prontuários de  290 pacientes  atendidos no ambulatório de 
+cardiologia durante o ano de 2021 e que se enquadravam na pesquisa.  
+A idade média dos pacientes analisados foi de 62,13 anos, contanto com 56% do sexo 
+feminino e 44% do sexo masculino.  
+Imagem 1 – Divisão dos pacientes por sexo.  
+ 
+ 
+A frequência de atendimentos no ambulatório no ano de 2021 também foi registrada. 
+A maioria dos pacientes consultou  apenas uma vez no ano de 2021.  
+Tabela 1 – Número  de atendimentos por paciente no ano de 2021  
+ 
+ 
+As comorbidades apresentadas pelos pacientes da pesquisa foram registradas. A 
+dislipidemia teve a maior prevalência.  
+ 129 (44%) 161 (56%)
+Masculino Feminino
+1 (52% )2 (29% )3 (11% )4 (5%)5 (3%)
+1 2 3 4 > ou =5
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+810 Tabela 2 – Comorbidades apresentadas pelos pacientes  
+Comorbidades  Número de pacientes  Porcentagem  
+Dislipidemia  100 34,48%  
+Diabetes melitus  79 27,24%  
+Hipotireoidismo  39 13,45%  
+Obesidade  29 10,00%  
+Outros  26 8,97% 
+ 
+As doenças cardiológicas pelas quais os pacientes consultam no ambulatório foram 
+registradas . Destaca -se que 87,93% dos pacientes eram  hipertensos em algum grau.  
+Tabela 3  - Doenças apresentadas pelos pacientes.  
+Doenças  Pacientes  Porcentagem  
+Hipertensão a rterial  
+sistêmica  255 87,93%  
+Doença arterial c oronariana  74 25,52% 
+Insuficiência cardíaca  50 17,24%  
+Arritmia  37 12,76%  
+Outros  26 8,97% 
+ 
+Dentre os medicamentos utilizados pelos pacientes do ambulatório  os mais 
+prevalentes  foram estatinas, bloqueadores  dos receptores de angiotensina II  (BRA) e AAS.  
+Tabela 4 - Medicamentos  mais  utilizados pelos pacientes  
+Medicamento  Pacientes em uso  Porcentagem  
+Estatinas  168 57,93% 
+Bloqueadores  dos receptores 
+de angiotensina II  136 46,90 % 
+AAS  102 35,17%  
+Diuréticos tiazídicos  96 33,10%  
+Bloqueadores do canal de 
+cálcio  71 24,48% 
+Diurético de alça  61 21,03%  
+Inibidores da enzima 
+conversora de angiotensina  60 20,69 % 
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+811 4. DISCUSSÃO  
+O primeiro dado obtido na pesquisa foi a predominância de mulheres atendidas no 
+ambulatório, representando 56% dos pacientes. Essa predominância se r epete em outros 
+trabalhos, Dantas et al realizou um estudo em ambulatório de cardiologia no ano de 2015, 
+que determinou que 66% dos pacientes atendidos no serviço eram do sexo feminino.14 O 
+mesmo ocorreu no estudo de Peterson et al, em 2010, em que 70,1% dos pacientes atendidos 
+eram mulheres.13 Os dados indicam uma  incidência maior de procura pelo serviço médico 
+por parte dos pacientes do sexo feminino.  
+A comorbidade mais identif icada entre os pacientes foi a d islipidemia, presente em 
+34,48% da população do estudo. O dado está de acordo com a literatura . Em 2017, Bolan et al 
+observou dentre pacientes hiperte nsos atendidos no ambulatório de cardiologia que a 
+dislipidemia tinha 44,8% de prevalência, sendo a comorbidade mais presente no serviço .18 
+No e studo de Linarelli et al, dentr e 543 pacientes analisados com diagnóstico de HAS  em 
+seguimento ambulatorial entre 2000 e 2007, a dislipidemia foi a comorbidade mais frequente 
+com 44,2% de prevalência.23 
+A HAS  se apresentou como a doença mais frequente entre  os pacientes atendidos no 
+ambulatório, sendo que 87,93% da população analisada  a tratava em algum grau. A 
+dominância foi significativa, uma vez que a DAC , segunda  doença mais prevalente , não 
+atingiu 20% de prevalência. O dado está em concordância com o perfil dos pacientes 
+cadastrados no HiperDia (Sistema de Cadastramento e Acompanhamento de Hipertensos 
+e Diabéticos) de Cascavel, em que 76,5% são hipertensos , 20,19% diabéticos com hipertensão 
+e apenas 3,29% diabéticos .26 Outras pesquisas em serviços de cardiologia também apontam a 
+HAS como doença mais prevalente, como observado por Peterson et al que encontrou  uma 
+prevalência de 83,8 % de hipertensos13, por Dantas et al, com  68,60% dos pacientes 
+hipertensos14 e mais recentemente por Gianetta e Gallina  que observaram  dos 149 pacientes  
+analisados  87,75% possuíam HAS e 28,57% eram diabéticos.27 
+A prevalência da hipertensão diminui em pesquisas em que a população não é 
+selecionada dentre pacientes de um serviço de cardiologia, como é o caso do estudo de Costa 
+et al em que foi realizado aplicação de questionários e aferição de pressão arterial em 1968 
+pessoas e encontrada uma prevalência de 23,6% de hipertensos 11. Essa tendência também é 
+observada por Pereira et al,  em que foram realizadas visitas domiciliares com preenchimento 
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+812 de questionário, e aferição da pressão arterial. Dos 707 participantes do estudo, 36,4% desses 
+foram classificados como hipertensos . 12  
+Em relação às  terapias mai s utilizadas , este estudo revelou que as medicações  mais 
+utilizada s foram as estatinas  e BRA, sendo utilizado por 57,93%  e 47,90% dos pacientes  
+respectivamente . O dado não corresponde ao previamente o bservado em outras pesquisas,  
+uma vez que este estudo reflete as  novas diretrizes de tratamento de  HAS.28 O estudo  de 
+Schroeter et al, realizado em 2006, revelou que os diuréticos eram os medicamentos mais 
+utilizados na terapia anti -hipertensiva, representando 58,9% do total, sendo 42,5% apenas do 
+uso de hidroclorotiazida. As outras classes mais prevalentes observadas foram os inibidores 
+da ECA e betabloqueadores.22 
+Já na pesquisa  de Linarelli et al  com análise de prontuários de pacientes com 
+tratamento medicamentoso de hipertensão arterial, o medicamento mais prevalente foi o 
+captopril (65,0%), seguido de hidroclorotiazida (44,4%) e propranolol (28,4%).23 Outro 
+estudo de 2007 de Vosgerau et al  apontou o captopril como medicação mais utilizada (27%) 
+seguido pela hidroclorotiazida (25%).24  
+5. CONCLUSÃO  
+A pesquisa teve como objetivo primário conhecer as doenças mais prevalentes no 
+ambulatório de cardiologia de Cascavel , sendo observado que a HAS foi a doença mais 
+tratada dentre os pacientes, presente em 87,93% desses, e a comorbidade mais apresentada 
+foi a dislipidemia, com 34,48% de prevalência.  
+O objetivo secundário foi conhecer  o perfil epidemiológico da população e  as formas 
+de terapia mais utilizadas pelos pa cientes do serviço. Observou -se que 56% dos pacientes 
+atendidos no ambulatório eram mulheres , e revelou estatinas e bloqueador es dos receptores 
+de angiotensina como principais medicações utilizadas pelos pacientes do estudo.  
+6. REFERÊNCIAS  
+1.AKASHI, Daniela; et al. Tratamento Anti -Hipertensivo. Prescrição e Custo de 
+Medicamentos. Pesquisa em Hospital Terciário. Arquivos Brasileiros de Cardiologia, São 
+Paulo, 71 (1), 55 -57, 1998.  
+2.BARRETO, Sandhi  M; et al. Hypertension and Clustering of Cardiovascular Risk Factors 
+in a Community in Southeast Brazil - The Bambuí Health and Ageing Study . Arquivos 
+Brasileiros de Cardiologia, Belo Horizonte, 77 (6), 576 -81, 2001  
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+813 3.COSTA, Juvenal SD; et al. Prevalência de Hipertensão Arterial em adultos e fatores 
+associados: Um estudo de base populacional urbana em Pelotas, Rio Grande do Sul, Brasil. 
+Arquivos Brasileiros de Cardiologia. 88 (1), 2007  
+4.DANTAS, Maira M; et al. Perfil dos pacientes atendidos no ambulatório de cardiologia 
+da região sul do Tocantins no ano de 2015. Revista Cereus; 11 (2), 1 -11, 2019.  
+5.FELIPETTI, Francielly A; et al. Prevalência de hipertensos e diabéticos cadastrados e 
+acompanhados pelas unidades de saúde do município de Cascavel - Paraná. Revista APS; 
+19(1), 77 – 84; Cascavel 2016.  
+6.FREITAS, Olavo C; et al. Prevalence of Hypertension in the Urban Population of 
+Catanduva, in the State of São Paulo, Brazil. Arquivos Brasileiros de Cardiologia. 77(1); 16 -
+21; 2001.  
+7.GAZIANO, TA; et al. Global Burden of Cardiovascular Disease. In: BRAUNWALD E. 
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 11ª Ed. 2019 P. 87 -130.  
+8.GIANETTA, Raquel; et al. Perfil lipidêmico  dos pacientes do ambulatório de cardiologia 
+do Hospital Norte Paranaense: Análise de coorte retrospectiva. Brazilian Journal of Surgery 
+and Clinical Research; 31(4); 83 -88; 2020  
+9.GOVERNO DO BRASIL. Pesquisa do IBGE mostra aumento da obesidade entre adultos. 
+Disponível em https://www.gov.br/pt -br/noticias/saude -e-
+vigilanciasanitaria/2020/10/pesquisa -do-ibge-mostra -aumento -da-obesidade -
+entreadultos#:~:text=Outro%20dado%20mostra%20que%2C%20em,57%2C5%25% 20d 
+os%20homens. Acesso em 06 de março de 2022.  
+10. LESSA, Ines; et al; Arterial Hypertension in the Adult Population of Salvador (BA) 
+Arquivos Brasileiros de Cardiologia , 87 (6), 2006.  
+11. LINARELLI, Maria CB; et al. Análise do uso racional de medicamentos anti -
+hipertensivos utilizados em hospital -escola. Revista Ciências Médicas, 18(4), 193 -200, 
+Campinas, 2009.  
+12. ORGANIZAÇÃO MUNDIAL DA SAÚDE. Diretrizes da OMS para atividade física 
+e comportamento sedentário. Disponível em 
+https://apps.who.int/iris/bitstream/handle/10665/337001/9789240014886 -por.pdf Acesso 
+em 06 de março de 2022.  
+13. ORGANIZAÇÃO PAN -AMERICANA DE SAÚDE. OMS revela principais causas de 
+morte e incapacidade em todo o mundo entre 2000 e 2019. Disponível em 
+https://www.paho.org/pt/noticias/9 -12-2020-oms-revela -principais -causas -morte -e-
+incapacidade -em-todo-mundo -entre -2000-e. Acesso em 06 de março de 2022.  
+14. PEREIRA, Janaina C; et al. O Perfil de Saúde Cardiovascular dos Idosos Brasileiros 
+Precisa Melhorar: Estudo de Base Populacional. Arquivos Brasileiros de Cardiologia. 91 (1). 
+2008.  
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+814 16. PEREIRA, Marcia R; et al. Prevalência, conhecimento, tratamento e controle de 
+hipertensão arterial sistêmica na população adulta urbana de Tubarão, Santa Catarina, 
+Brasil, em 2003. Caderno Saúde Pública, 23 (10), 2007.  
+17. PETERSON, Lucia. C; et al. Fatores de risco cardiovasculares e comorbidades em 
+ambulatórios de cardiologia da região metropolitana de Porto Alegre, RS. Revista da 
+AMRIGS; 55 (3); 217 -223. 2011.  
+18. ROSA, Leonardo V; et al. Epidemiologia das doenças cardiovasculares e neoplasias: 
+Quando vai acontecer o cruzamento das curvas? Sociedade de Cardiologia do Estado de São 
+Paulo, 19(4), 526 -53, São Paulo, 2009.  
+19. SCHROETER, Guilherme; et al. Terapia anti -hipertensiva utilizada por pacientes idosos 
+de Porto Alegre/RS, Brasil. Scientia Medica, 17(1) 14 -19, 2007.  
+20. SECRETARIA MUNICIPAL DE SAÚDE DE CASCAVEL. Plano Municipal de 
+Saúde 2018 -2021. Cascavel, Disponível em 
+http://www.cascavel.pr.gov.br/arquivos/12042018_planomunicipalsaude_livreto.pdf. 
+Acesso em 08 de março de 2022.  
+21. SILVA, Alexandre C, et al. Perfil epidemiológico dos pacientes hipertensos atendidos 
+em um ambulatório de cardiologia de uma universidade do extremo sul catarinense no 
+período de 2017. Revista da Associação Médica do Rio Grande do Sul. Criciúma: 66 (1): 57 -
+62; 2022.  
+22. SILVA, Jessica P; et al. A importância do estudo da epidemiologia na formação médica 
+brasileira. In: Congresso Nacional de Pesquisa e Ensino em Ciências, III, 2018, Campina 
+Grande.  
+23. SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Aumenta o número de mortes por 
+doenças cardiovasculares no primeiro semestre de 2021. Disponível em 
+https://www.portal.cardiol.br/post/aumenta -o-n%C3%BAmero -de-mortes -
+pordoen%C3%A7as -cardiovasculares -no-primeiro -semestr e-
+de2021#:~:text=As%20doen%C3%A7as%20cardiovasculares%20(DCV)%20s%C3% 
+A3o,todas%20as%20mortes%20no%20pa%C3%ADs. Acesso em 06 de março de 2022.  
+24. SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretrizes Brasileiras de 
+Hipertensão Arterial – 2020. Arquivos Brasileiros de Cardiologia; 116(3), 516 -658. 2021. 
+Disponível em: https://repositorio.unesp.br/bitstream/handle/11449/207940/S0066 -
+782X2021000400516.pdf?sequence=1&isAllowed=y  
+25. VOSGERAU, Milene ZS; et al. Saúde da Família e Utilização de Medicamentos Anti -
+Hipertensivos e Antidiabéticos. Revista Brasileira Cardiologia. 24(2), 95 -104. 2011  
+26. WORLD HEALTH ORGANIZATION. Obesity and overweight. Disponível em 
+https://www.who.int/news -room/fact -sheets/detail/obesity -and-overweight. Acesso em 
+06 de março de 2022.  
+27. WORLD HEALTH ORGANIZATION. WHO Coronavirus (COVID -19) 
+Dashboard. Disponível em https://covid19.who.int/. Acesso em 06 de março de 2022.  
+Revista Ibero - Americana de Humanidades, Ciências e Educação - REASE       
+ 
+ 
+Revista Ibero -Americana de Humanidades, Ciências e Educação. São Paulo, v.10.n.01. jan. 2024.  
+ISSN - 2675 – 3375 
+ 
+815 28. ZAITUNE, Maria PA; et al. Hipertensão arterial em idosos: prevalência, fatores 
+associados e práticas de controle no Município de Campinas, São Paulo, Brasil. Caderno 
+Saúde Pública. 22(2); 285 -294; 2006.  
+ 
