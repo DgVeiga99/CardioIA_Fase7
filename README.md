@@ -83,15 +83,12 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ## 📎 Links e Observações
 
 * <b>Listagem de Links</b>:
-
-  * Repositório GitHub privado: `INSERIR_LINK_DO_REPOSITORIO_PRIVADO`
+  
   * URL pública da aplicação Web na Vercel: `INSERIR_URL_PUBLICA_DA_VERCEL`
   * Link do build APK no Expo: `INSERIR_LINK_DO_BUILD_APK_EXPO`
   * Link direto para download do APK: `INSERIR_LINK_DIRETO_DO_APK`
-  * Link público do projeto Wokwi: `INSERIR_LINK_PUBLICO_DO_WOKWI`
-  * Vídeo demonstrativo no YouTube/Drive: `INSERIR_LINK_DO_VIDEO_DEMONSTRATIVO`
-  * Documentação Swagger da API local: `http://127.0.0.1:8000/docs`
-  * Frontend Web local: `http://localhost:5173`
+  * [Link público do projeto Wokwi](https://wokwi.com/projects/466467819611894785)
+  * [Vídeo demonstrativo no YouTube/Drive](https://youtu.be/D9-v1i8-Uv4)
 
 * <b>Explicação de decisões técnicas</b>:
 
@@ -794,7 +791,7 @@ O projeto Wokwi deve demonstrar:
 Link público da simulação:
 
 ```bash
-INSERIR_LINK_PUBLICO_DO_WOKWI
+[Link público do projeto Wokwi](https://wokwi.com/projects/466467819611894785)
 ```
 
 ---
@@ -813,15 +810,6 @@ O chatbot foi desenvolvido para auxiliar o usuário com perguntas relacionadas a
 * Análise de raio X
 
 Quando as credenciais do IBM Watson Assistant estão configuradas, o sistema utiliza o Watson. Caso contrário, utiliza um fallback local.
-
-Variáveis de ambiente esperadas:
-
-```env
-WATSON_API_KEY=
-WATSON_SERVICE_URL=
-WATSON_ASSISTANT_ID=
-WATSON_VERSION=2024-08-25
-```
 
 ---
 
